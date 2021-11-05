@@ -1,6 +1,7 @@
 const fetch = require("node-fetch");
 const fs = require('fs');
-const userList = require('./userListValid');
+const userList = require('./userList');
+const { time } = require("console");
 
 const distinct = (value, index, self) => {
     return self.indexOf(value) === index;
@@ -11,12 +12,15 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-async function getBattleHistory(player = '', data = {}) {
+function getHistoryUrl(player){
     player =  player.trim();
-    //sleep 1 second
-    await sleep(1000)
     let historyUrl =  'https://api2.splinterlands.com/battle/history?player=' + player;
     console.log("ask history",historyUrl);
+    return historyUrl
+}
+
+async function getBattleHistory(player = '', data = {}) {
+    historyUrl = getHistoryUrl(player);
     const battleHistory = await fetch(historyUrl)
         .then((response) => {
             if (!response.ok) {
@@ -87,14 +91,19 @@ const extractMonster = (team) => {
 
 let battlesList = [];
 const usersToGrab = userList
-var i = 0;
-const battles = usersToGrab.map(user =>{
-    // i++;
-    // if(i>3){
-    //     return;
-    // }
-    return getBattleHistory(user)
-        .then(battles => battles.map(
+
+//2 sequence
+let j = 0
+async function sequenceLoadHistort(){
+    for (let i = 0; i < usersToGrab.length; i++) {
+        // j++
+        // if(j>2){
+        //     return;
+        // }
+        user = usersToGrab[i]
+        let battles = await getBattleHistory(user)
+
+        let battlesResult = battles.map(
             battle => {
                 const details = JSON.parse(battle.details);
                 if (details.type != 'Surrender') {
@@ -124,13 +133,64 @@ const battles = usersToGrab.map(user =>{
                     }
                 }
 
-            })
-        ).then(x => battlesList = [...battlesList, ...x]).catch(err=>console.error(err))
-    }
-    
-)
+            }
+        )
 
-Promise.all(battles).then(() => {
+        battlesList = [...battlesList, ...battlesResult]
+        await sleep(100)
+    }
+}
+
+sequenceLoadHistort().then(saveBattleHistory)
+
+//1 parallel
+// usersToGrab.map(user =>{
+//         await sleep(3000)
+//         i++;
+//         if(i>2){
+//             return;
+//         }
+//         return getBattleHistory(user)
+//             .then(battles => battles.map(
+//                 battle => {
+//                     const details = JSON.parse(battle.details);
+//                     if (details.type != 'Surrender') {
+//                         if (battle.winner && battle.winner == battle.player_1) {
+//                             const monstersDetails = extractMonster(details.team1)
+//                             const info = extractGeneralInfo(battle)
+//                             return {
+//                                 ...monstersDetails,
+//                                 ...info,
+//                                 battle_queue_id: battle.battle_queue_id_1,
+//                                 player_rating_initial: battle.player_1_rating_initial,
+//                                 player_rating_final: battle.player_1_rating_final,
+//                                 winner: battle.player_1,
+    
+//                             }
+//                         } else if (battle.winner && battle.winner == battle.player_2) {
+//                             const monstersDetails = extractMonster(details.team2)
+//                             const info = extractGeneralInfo(battle)
+//                             return {
+//                                 ...monstersDetails,
+//                                 ...info,
+//                                 battle_queue_id: battle.battle_queue_id_2,
+//                                 player_rating_initial: battle.player_2_rating_initial,
+//                                 player_rating_final: battle.player_2_rating_final,
+//                                 winner: battle.player_2,
+//                             }
+//                         }
+//                     }
+    
+//                 })
+//             ).then(x => battlesList = [...battlesList, ...x]).catch(err=>console.error(err))
+//         }
+//         )
+// Promise.all(battles).then(() => {
+//     saveBattleHistory()
+// });
+
+
+function saveBattleHistory(){
     const cleanBattleList = battlesList.filter(x => x != undefined)
     fs.writeFile(`data/historyTemp.json`, JSON.stringify(cleanBattleList), function (err) {
         if (err) {
@@ -148,6 +208,5 @@ Promise.all(battles).then(() => {
             console.log(err);
         }
     })
-
-});
+}
 

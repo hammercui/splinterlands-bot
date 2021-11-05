@@ -46,33 +46,37 @@ async function checkEcr(page) {
     }
 }
 
-async function startBotPlayMatch(page) {
+async function startBotPlayMatch(page,init=true) {
+    if(init){
+        console.log( new Date().toLocaleString(), 'opening browser...')
     
-    console.log( new Date().toLocaleString(), 'opening browser...')
-    
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3163.100 Safari/537.36');
-    await page.setViewport({
-        width: 1800,
-        height: 1500,
-        deviceScaleFactor: 1,
-    });
-
-    await page.goto('https://splinterlands.io/');
-    await page.waitForTimeout(8000);
-
-    let item = await page.waitForSelector('#log_in_button > button', {
-        visible: true,
-      })
-      .then(res => res)
-      .catch(()=> console.log('Already logged in'))
-
-    if (item != undefined)
-    {console.log('Login attempt...')
-        await splinterlandsPage.login(page).catch(e=>{
-            console.log(e);
-            throw new Error('Login Error');
+        await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3163.100 Safari/537.36');
+        await page.setViewport({
+            width: 1800,
+            height: 1500,
+            deviceScaleFactor: 1,
         });
+    
+        await page.goto('https://splinterlands.io/');
+        await page.waitForTimeout(8000);
+    
+        let item = await page.waitForSelector('#log_in_button > button', {
+            visible: true,
+          })
+          .then(res => res)
+          .catch(()=> console.log('Already logged in'))
+    
+        if (item != undefined)
+        {console.log('Login attempt...')
+            await splinterlandsPage.login(page).catch(e=>{
+                console.log(e);
+                throw new Error('Login Error');
+            });
+        }
+    }else{
+        console.log( new Date().toLocaleString(), 'Battle Again...')
     }
+   
     
     await page.goto('https://splinterlands.io/?p=battle_history');
     await page.waitForTimeout(8000);
@@ -360,15 +364,17 @@ const blockedResources = [
     page.goto('https://splinterlands.io/');
     page.recoverStatus = 0;
     page.favouriteDeck = process.env.FAVOURITE_DECK || '';
+    let isInit = true
     while (true) {
         console.log('Recover Status: ', page.recoverStatus)
         console.log(chalk.bold.redBright.bgBlack('Dont pay scammers!'));
         console.log(chalk.bold.whiteBright.bgBlack('If you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX'));
         console.log(chalk.bold.greenBright.bgBlack('If you interested in a higher winning rate with the private API, contact the owner via discord or telegram')); 
         try {
-            await startBotPlayMatch(page)
+            await startBotPlayMatch(page,isInit)
                 .then(() => {
-                    console.log('Closing battle', new Date().toLocaleString());        
+                    console.log('Closing battle', new Date().toLocaleString()); 
+                    isInit = false;       
                 })
                 .catch((e) => {
                     console.log(e)

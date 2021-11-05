@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "history":"node battlesGetDataV2.js && cd data && node combine.js"
+    "history":"node battlesGetDataV2.js && cd data && node combine.js",
+    "data":"node battlesGetDataV2.js "
   },
   "author": "",
   "license": "ISC",
