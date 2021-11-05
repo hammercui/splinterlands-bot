@@ -378,9 +378,15 @@ const blockedResources = [
         } catch (e) {
             console.log('Routine error at: ', new Date().toLocaleString(), e)
         }
-        await console.log(process.env.ACCOUNT,'waiting for the next battle in', sleepingTime / 1000 / 60 , ' minutes at ', new Date(Date.now() +sleepingTime).toLocaleString() )
-        await new Promise(r => setTimeout(r, sleepingTime));
+        let realSleepingTime = sleepingTime
+        //todo random 0.5~1
+        //random [n,m)
+        realSleepingTime =  (realSleepingTime * (Math.random()*(10-5)+5) ) / 10
+        console.info("seleep time ms:",realSleepingTime)
+        await console.log(process.env.ACCOUNT,'waiting for the next battle in', realSleepingTime / 1000 / 60 , ' minutes at ', new Date(Date.now() +sleepingTime).toLocaleString() )
+        await new Promise(r => setTimeout(r, realSleepingTime));
     }
     console.log('Process end. need to restart')
     await browser.close();
 })();
+
