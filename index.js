@@ -1,4 +1,5 @@
 //'use strict';
+const logger = require('./logger')
 require('dotenv').config()
 const puppeteer = require('puppeteer');
 
@@ -57,7 +58,7 @@ async function startBotPlayMatch(page,init=true) {
             deviceScaleFactor: 1,
         });
     
-        await page.goto('https://splinterlands.io/');
+        await page.goto('https://splinterlands.com/');
         await page.waitForTimeout(8000);
     
         let item = await page.waitForSelector('#log_in_button > button', {
@@ -77,11 +78,17 @@ async function startBotPlayMatch(page,init=true) {
         console.log( new Date().toLocaleString(), 'Battle Again...')
     }
    
-    
-    await page.goto('https://splinterlands.io/?p=battle_history');
-    await page.waitForTimeout(8000);
-    await closePopups(page);
-    await closePopups(page);
+    //todo if this is 'https://splinterlands.com/?p=battle_history' ，do not goto  
+    let indexUrl = 'https://splinterlands.com/?p=battle_history'
+    const url = await page.url();
+    console.log("current url",url)
+    if(url != indexUrl){
+        console.log("goto  url",indexUrl)
+        await page.goto(indexUrl);
+        await page.waitForTimeout(8000);
+        await closePopups(page);
+        await closePopups(page);
+    }
 
 
     const ecr = await checkEcr(page);
@@ -181,7 +188,7 @@ async function startBotPlayMatch(page,init=true) {
                 .then(()=>console.log('start the match'))
                 .catch(async ()=>{
                     console.log('second attempt failed reloading from homepage...');
-                    await page.goto('https://splinterlands.io/');
+                    await page.goto('https://splinterlands.com/');
                     await page.waitForTimeout(5000);
                     await page.waitForXPath("//button[contains(., 'BATTLE')]", { timeout: 20000 })
                         .then(button => button.click())
@@ -361,7 +368,7 @@ const blockedResources = [
     await page.on('dialog', async dialog => {
         await dialog.accept();
     });
-    page.goto('https://splinterlands.io/');
+    page.goto('https://splinterlands.com/');
     page.recoverStatus = 0;
     page.favouriteDeck = process.env.FAVOURITE_DECK || '';
     let isInit = true
