@@ -1,0 +1,3123 @@
+[2021-11-05 23:36:36/210] START  hammersir 2021/11/5 下午11:36:36
+[2021-11-05 23:36:36/700] Recover Status:  0
+[2021-11-05 23:36:36/711] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-05 23:36:36/711] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-05 23:36:36/713] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-05 23:36:36/715] 2021/11/5 下午11:36:36 opening browser...
+[2021-11-05 23:37:03/896] Login attempt...
+[2021-11-05 23:37:33/911] Error: Check that you used correctly username and posting key. (dont use email and password)
+    at Object.login (/home/hammer/Desktop/webSpace/splinterlands-bot-hammer/splinterlandsPage.js:33:15)
+    at async startBotPlayMatch (/home/hammer/Desktop/webSpace/splinterlands-bot-hammer/index.js:72:13)
+    at async /home/hammer/Desktop/webSpace/splinterlands-bot-hammer/index.js:375:13
+[2021-11-05 23:37:33/912] Error: Login Error
+    at /home/hammer/Desktop/webSpace/splinterlands-bot-hammer/index.js:74:23
+    at async startBotPlayMatch (/home/hammer/Desktop/webSpace/splinterlands-bot-hammer/index.js:72:13)
+    at async /home/hammer/Desktop/webSpace/splinterlands-bot-hammer/index.js:375:13
+[2021-11-05 23:37:38/914] seleep time ms: 7239.384353548541
+[2021-11-05 23:37:38/914] hammersir waiting for the next battle in 0.12065640589247568  minutes at  2021/11/5 下午11:37:50
+[2021-11-05 23:37:46/161] Recover Status:  0
+[2021-11-05 23:37:46/161] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-05 23:37:46/161] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-05 23:37:46/161] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-05 23:37:46/162] 2021/11/5 下午11:37:46 opening browser...
+[2021-11-05 23:37:46/192] (node:28668) UnhandledPromiseRejectionWarning: Error: Protocol error (Runtime.callFunctionOn): Execution context was destroyed.
+    at /home/hammer/Desktop/webSpace/splinterlands-bot-hammer/node_modules/puppeteer/lib/cjs/puppeteer/common/Connection.js:217:63
+    at new Promise (<anonymous>)
+    at CDPSession.send (/home/hammer/Desktop/webSpace/splinterlands-bot-hammer/node_modules/puppeteer/lib/cjs/puppeteer/common/Connection.js:216:16)
+    at ExecutionContext._evaluateInternal (/home/hammer/Desktop/webSpace/splinterlands-bot-hammer/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:204:50)
+    at ExecutionContext.evaluate (/home/hammer/Desktop/webSpace/splinterlands-bot-hammer/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:110:27)
+    at ElementHandle.evaluate (/home/hammer/Desktop/webSpace/splinterlands-bot-hammer/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:102:46)
+    at ElementHandle._scrollIntoViewIfNeeded (/home/hammer/Desktop/webSpace/splinterlands-bot-hammer/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:281:34)
+    at ElementHandle.click (/home/hammer/Desktop/webSpace/splinterlands-bot-hammer/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:390:20)
+    at DOMWorld.click (/home/hammer/Desktop/webSpace/splinterlands-bot-hammer/node_modules/puppeteer/lib/cjs/puppeteer/common/DOMWorld.js:278:22)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(Use `node --trace-warnings ...` to show where the warning was created)
+[2021-11-05 23:37:46/192] (node:28668) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+[2021-11-05 23:37:46/192] (node:28668) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[2021-11-05 23:38:05/767] START  hammersir 2021/11/5 下午11:38:05
+[2021-11-05 23:38:06/124] Recover Status:  0
+[2021-11-05 23:38:06/128] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-05 23:38:06/129] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-05 23:38:06/129] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-05 23:38:06/130] 2021/11/5 下午11:38:06 opening browser...
+[2021-11-05 23:38:34/544] Login attempt...
+[2021-11-05 23:38:57/206] logged in!
+[2021-11-05 23:39:11/930] check if any modal needs to be closed...
+[2021-11-05 23:39:15/931] No element .close to be closed
+[2021-11-05 23:39:16/932] No element .modal-close-new to be closed
+[2021-11-05 23:39:20/933] No element .modal-close to be closed
+[2021-11-05 23:39:20/933] check if any modal needs to be closed...
+[2021-11-05 23:39:24/935] No element .close to be closed
+[2021-11-05 23:39:25/936] No element .modal-close-new to be closed
+[2021-11-05 23:39:29/939] No element .modal-close to be closed
+[2021-11-05 23:39:29/951] [1m[97m[45mYour current Energy Capture Rate is 83%[49m[39m[22m
+[2021-11-05 23:39:29/951] getting user quest info from splinterlands API...
+[2021-11-05 23:39:31/229] getting user cards collection from splinterlands API...
+[2021-11-05 23:39:32/162] cards retrieved
+[2021-11-05 23:39:32/162] hammersir  deck size: 128
+[2021-11-05 23:39:32/162] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 0 }
+[2021-11-05 23:39:32/174] no quest reward to be claimed waiting for the battle...
+[2021-11-05 23:39:37/174] waiting for battle button...
+[2021-11-05 23:39:37/178] Battle button clicked
+[2021-11-05 23:39:42/179] waiting for an opponent...
+[2021-11-05 23:39:45/773] start the match
+[2021-11-05 23:39:57/787] check battles based on mana: 15
+[2021-11-05 23:39:57/787] INPUT:  15 Target Practice [ 'fire', 'life', 'death', 'dragon' ] 128
+[2021-11-05 23:39:57/788] Using Backup  72285
+[2021-11-05 23:39:57/794] Possible Teams based on your cards:  9
+[2021-11-05 23:39:57/795] quest custom option set as: false
+[2021-11-05 23:39:57/795] BESTSUMMONER:  49
+[2021-11-05 23:39:57/796] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 5,
+  tankWins: 5,
+  bestTank: '50',
+  bestBackline: '138',
+  backlineWins: 2,
+  bestSecondBackline: '47',
+  secondBacklineWins: 2,
+  bestThirdBackline: '52',
+  thirdBacklineWins: 2,
+  bestForthBackline: '',
+  forthBacklineWins: 2
+}
+[2021-11-05 23:39:57/796] BEST TEAM [
+  49, 50,      138,
+  47, 52,      '',
+  '', 'death', '',
+  ''
+]
+[2021-11-05 23:39:57/797] Dont play for the quest, and play this: [
+  '49',
+  [
+    49, 50,      138,
+    47, 52,      '',
+    '', 'death', '',
+    ''
+  ]
+]
+[2021-11-05 23:40:07/903] play:  50
+[2021-11-05 23:40:08/903] play:  138
+[2021-11-05 23:40:09/903] play:  47
+[2021-11-05 23:40:10/904] play:  52
+[2021-11-05 23:40:11/904] play:  
+[2021-11-05 23:40:11/904] nocard  5
+[2021-11-05 23:40:12/905] play:  
+[2021-11-05 23:40:12/905] nocard  6
+[2021-11-05 23:40:42/899] btnRumble visible
+[2021-11-05 23:40:47/911] btnRumble clicked
+[2021-11-05 23:40:47/925] btnSkip visible
+[2021-11-05 23:40:47/945] btnSkip clicked
+[2021-11-05 23:40:54/739] [31mYou lost[39m
+[2021-11-05 23:41:04/745] Clicking element .btn--done
+[2021-11-05 23:41:14/855] Clicking element #menu_item_battle
+[2021-11-05 23:41:14/983] Total Battles: 1[32m - Win Total: 0[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 1[39m
+[2021-11-05 23:41:14/983] [32mTotal Earned: 0 DEC[39m
+[2021-11-05 23:41:14/984] Closing battle 2021/11/5 下午11:41:14
+[2021-11-05 23:41:19/987] seleep time ms: 6689.436875778204
+[2021-11-05 23:41:19/988] hammersir waiting for the next battle in 0.11149061459630341  minutes at  2021/11/5 下午11:41:31
+[2021-11-05 23:41:26/683] Recover Status:  0
+[2021-11-05 23:41:26/684] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-05 23:41:26/684] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-05 23:41:26/684] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-05 23:41:26/684] 2021/11/5 下午11:41:26 Battle Again...
+[2021-11-05 23:41:35/251] check if any modal needs to be closed...
+[2021-11-05 23:41:39/251] No element .close to be closed
+[2021-11-05 23:41:40/251] No element .modal-close-new to be closed
+[2021-11-05 23:41:44/253] No element .modal-close to be closed
+[2021-11-05 23:41:44/253] check if any modal needs to be closed...
+[2021-11-05 23:41:48/256] No element .close to be closed
+[2021-11-05 23:41:49/256] No element .modal-close-new to be closed
+[2021-11-05 23:41:53/259] No element .modal-close to be closed
+[2021-11-05 23:41:53/267] [1m[97m[45mYour current Energy Capture Rate is 82%[49m[39m[22m
+[2021-11-05 23:41:53/267] getting user quest info from splinterlands API...
+[2021-11-05 23:41:54/194] getting user cards collection from splinterlands API...
+[2021-11-05 23:41:55/165] cards retrieved
+[2021-11-05 23:41:55/165] hammersir  deck size: 128
+[2021-11-05 23:41:55/165] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 0 }
+[2021-11-05 23:41:55/183] no quest reward to be claimed waiting for the battle...
+[2021-11-05 23:42:00/183] waiting for battle button...
+[2021-11-05 23:42:00/187] Battle button clicked
+[2021-11-05 23:42:05/189] waiting for an opponent...
+[2021-11-05 23:42:05/195] start the match
+[2021-11-05 23:42:17/210] check battles based on mana: 23
+[2021-11-05 23:42:17/210] INPUT:  23 Super Sneak [ 'fire', 'water', 'earth', 'life', 'death' ] 128
+[2021-11-05 23:42:17/210] Using Backup  72285
+[2021-11-05 23:42:17/215] Possible Teams based on your cards:  7
+[2021-11-05 23:42:17/215] quest custom option set as: false
+[2021-11-05 23:42:17/215] BESTSUMMONER:  49
+[2021-11-05 23:42:17/215] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 5,
+  tankWins: 5,
+  bestTank: '50',
+  bestBackline: '194',
+  backlineWins: 2,
+  bestSecondBackline: '47',
+  secondBacklineWins: 2,
+  bestThirdBackline: '138',
+  thirdBacklineWins: 2,
+  bestForthBackline: '52',
+  forthBacklineWins: 2
+}
+[2021-11-05 23:42:17/215] BEST TEAM [
+  49, 50,      194,
+  47, 138,     52,
+  51, 'death', '',
+  ''
+]
+[2021-11-05 23:42:17/216] Dont play for the quest, and play this: [
+  '49',
+  [
+    49, 50,      194,
+    47, 138,     52,
+    51, 'death', '',
+    ''
+  ]
+]
+[2021-11-05 23:42:27/351] play:  50
+[2021-11-05 23:42:28/351] play:  194
+[2021-11-05 23:42:29/352] play:  47
+[2021-11-05 23:42:30/354] play:  138
+[2021-11-05 23:42:31/355] play:  52
+[2021-11-05 23:42:32/356] play:  51
+[2021-11-05 23:42:51/114] btnRumble visible
+[2021-11-05 23:42:56/124] btnRumble clicked
+[2021-11-05 23:42:56/137] btnSkip visible
+[2021-11-05 23:42:56/171] btnSkip clicked
+[2021-11-05 23:43:02/190] [31mYou lost[39m
+[2021-11-05 23:43:12/203] Clicking element .btn--done
+[2021-11-05 23:43:22/355] Clicking element #menu_item_battle
+[2021-11-05 23:43:22/662] Total Battles: 2[32m - Win Total: 0[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 2[39m
+[2021-11-05 23:43:22/663] [32mTotal Earned: 0 DEC[39m
+[2021-11-05 23:43:22/663] Closing battle 2021/11/5 下午11:43:22
+[2021-11-05 23:43:27/664] seleep time ms: 8124.917333970363
+[2021-11-05 23:43:27/664] hammersir waiting for the next battle in 0.13541528889950605  minutes at  2021/11/5 下午11:43:39
+[2021-11-05 23:43:35/791] Recover Status:  0
+[2021-11-05 23:43:35/792] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-05 23:43:35/792] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-05 23:43:35/792] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-05 23:43:35/792] 2021/11/5 下午11:43:35 Battle Again...
+[2021-11-05 23:43:50/570] check if any modal needs to be closed...
+[2021-11-05 23:43:54/571] No element .close to be closed
+[2021-11-05 23:43:55/571] No element .modal-close-new to be closed
+[2021-11-05 23:43:59/575] No element .modal-close to be closed
+[2021-11-05 23:43:59/576] check if any modal needs to be closed...
+[2021-11-05 23:44:03/579] No element .close to be closed
+[2021-11-05 23:44:04/581] No element .modal-close-new to be closed
+[2021-11-05 23:44:08/583] No element .modal-close to be closed
+[2021-11-05 23:44:08/597] [1m[97m[45mYour current Energy Capture Rate is 82%[49m[39m[22m
+[2021-11-05 23:44:08/601] getting user quest info from splinterlands API...
+[2021-11-05 23:44:09/518] getting user cards collection from splinterlands API...
+[2021-11-05 23:44:10/446] cards retrieved
+[2021-11-05 23:44:10/447] hammersir  deck size: 128
+[2021-11-05 23:44:10/447] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 0 }
+[2021-11-05 23:44:10/455] no quest reward to be claimed waiting for the battle...
+[2021-11-05 23:44:15/455] waiting for battle button...
+[2021-11-05 23:44:15/461] Battle button clicked
+[2021-11-05 23:44:20/463] waiting for an opponent...
+[2021-11-05 23:44:30/223] start the match
+[2021-11-05 23:44:42/230] check battles based on mana: 17
+[2021-11-05 23:44:42/230] INPUT:  17 Back to Basics [ 'fire', 'earth', 'life', 'dragon' ] 128
+[2021-11-05 23:44:42/230] Using Backup  72285
+[2021-11-05 23:44:42/234] Possible Teams based on your cards:  2
+[2021-11-05 23:44:42/234] quest custom option set as: false
+[2021-11-05 23:44:42/234] BESTSUMMONER:  27
+[2021-11-05 23:44:42/235] BEST SUMMONER and TANK {
+  bestSummoner: '27',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '184',
+  bestBackline: '24',
+  backlineWins: 2,
+  bestSecondBackline: '66',
+  secondBacklineWins: 2,
+  bestThirdBackline: '',
+  thirdBacklineWins: 2
+}
+[2021-11-05 23:44:42/235] BEST TEAM [
+  27, 184,     24,
+  66, '',      '',
+  '', 'earth', '',
+  ''
+]
+[2021-11-05 23:44:42/235] Dont play for the quest, and play this: [
+  '27',
+  [
+    27, 184,     24,
+    66, '',      '',
+    '', 'earth', '',
+    ''
+  ]
+]
+[2021-11-05 23:44:52/355] play:  184
+[2021-11-05 23:44:53/356] play:  24
+[2021-11-05 23:44:54/357] play:  66
+[2021-11-05 23:44:55/358] play:  
+[2021-11-05 23:44:55/358] nocard  4
+[2021-11-05 23:44:56/359] play:  
+[2021-11-05 23:44:56/359] nocard  5
+[2021-11-05 23:44:57/360] play:  
+[2021-11-05 23:44:57/360] nocard  6
+[2021-11-05 23:45:16/918] btnRumble visible
+[2021-11-05 23:45:21/926] btnRumble clicked
+[2021-11-05 23:45:21/940] btnSkip visible
+[2021-11-05 23:45:21/972] btnSkip clicked
+[2021-11-05 23:45:27/993] [32mYou won! Reward: +1.176 DEC[39m
+[2021-11-05 23:45:38/1] Clicking element .btn--done
+[2021-11-05 23:45:48/167] Clicking element #menu_item_battle
+[2021-11-05 23:45:48/307] Total Battles: 3[32m - Win Total: 1[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 2[39m
+[2021-11-05 23:45:48/307] [32mTotal Earned: 1.176 DEC[39m
+[2021-11-05 23:45:48/307] Closing battle 2021/11/5 下午11:45:48
+[2021-11-05 23:45:53/311] seleep time ms: 11034.653353638976
+[2021-11-05 23:45:53/311] hammersir waiting for the next battle in 0.18391088922731627  minutes at  2021/11/5 下午11:46:05
+[2021-11-05 23:46:04/355] Recover Status:  0
+[2021-11-05 23:46:04/355] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-05 23:46:04/356] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-05 23:46:04/356] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-05 23:46:04/356] 2021/11/5 下午11:46:04 Battle Again...
+[2021-11-05 23:46:14/743] check if any modal needs to be closed...
+[2021-11-05 23:46:18/747] No element .close to be closed
+[2021-11-05 23:46:19/747] No element .modal-close-new to be closed
+[2021-11-05 23:46:23/751] No element .modal-close to be closed
+[2021-11-05 23:46:23/751] check if any modal needs to be closed...
+[2021-11-05 23:46:27/752] No element .close to be closed
+[2021-11-05 23:46:28/753] No element .modal-close-new to be closed
+[2021-11-05 23:46:32/755] No element .modal-close to be closed
+[2021-11-05 23:46:32/773] [1m[97m[45mYour current Energy Capture Rate is 81%[49m[39m[22m
+[2021-11-05 23:46:32/779] getting user quest info from splinterlands API...
+[2021-11-05 23:46:33/804] getting user cards collection from splinterlands API...
+[2021-11-05 23:46:34/781] cards retrieved
+[2021-11-05 23:46:34/781] hammersir  deck size: 128
+[2021-11-05 23:46:34/781] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 0 }
+[2021-11-05 23:46:34/797] no quest reward to be claimed waiting for the battle...
+[2021-11-05 23:46:39/803] waiting for battle button...
+[2021-11-05 23:46:39/808] Battle button clicked
+[2021-11-05 23:46:44/810] waiting for an opponent...
+[2021-11-05 23:46:45/825] start the match
+[2021-11-05 23:46:57/843] check battles based on mana: 14
+[2021-11-05 23:46:57/843] INPUT:  14 Standard [ 'fire', 'earth', 'life', 'death', 'dragon' ] 128
+[2021-11-05 23:46:57/843] Using Backup  72285
+[2021-11-05 23:46:57/852] Possible Teams based on your cards:  694
+[2021-11-05 23:46:57/852] quest custom option set as: false
+[2021-11-05 23:46:57/852] BESTSUMMONER:  49
+[2021-11-05 23:46:57/853] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 316,
+  tankWins: 300,
+  bestTank: '50',
+  bestBackline: '51',
+  backlineWins: 102,
+  bestSecondBackline: '52',
+  secondBacklineWins: 87,
+  bestThirdBackline: '',
+  thirdBacklineWins: 87
+}
+[2021-11-05 23:46:57/853] BEST TEAM [ 49, 50, 51, 52, '', '', '', 'death', '', '' ]
+[2021-11-05 23:46:57/854] Dont play for the quest, and play this: [ '49', [ 49, 50, 51, 52, '', '', '', 'death', '', '' ] ]
+[2021-11-05 23:47:07/979] play:  50
+[2021-11-05 23:47:08/979] play:  51
+[2021-11-05 23:47:09/980] play:  52
+[2021-11-05 23:47:10/981] play:  
+[2021-11-05 23:47:10/981] nocard  4
+[2021-11-05 23:47:11/983] play:  
+[2021-11-05 23:47:11/983] nocard  5
+[2021-11-05 23:47:12/983] play:  
+[2021-11-05 23:47:12/983] nocard  6
+[2021-11-05 23:47:23/993] btnRumble visible
+[2021-11-05 23:47:29/8] btnRumble clicked
+[2021-11-05 23:47:29/20] btnSkip visible
+[2021-11-05 23:47:29/48] btnSkip clicked
+[2021-11-05 23:47:35/82] [32mYou won! Reward: +1.223 DEC[39m
+[2021-11-05 23:47:45/95] Clicking element .btn--done
+[2021-11-05 23:47:55/239] Clicking element #menu_item_battle
+[2021-11-05 23:47:55/438] Total Battles: 4[32m - Win Total: 2[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 2[39m
+[2021-11-05 23:47:55/439] [32mTotal Earned: 2.399 DEC[39m
+[2021-11-05 23:47:55/439] Closing battle 2021/11/5 下午11:47:55
+[2021-11-05 23:48:00/443] seleep time ms: 9114.262843108323
+[2021-11-05 23:48:00/444] hammersir waiting for the next battle in 0.15190438071847204  minutes at  2021/11/5 下午11:48:12
+[2021-11-05 23:48:09/558] Recover Status:  0
+[2021-11-05 23:48:09/558] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-05 23:48:09/558] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-05 23:48:09/558] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-05 23:48:09/559] 2021/11/5 下午11:48:09 Battle Again...
+[2021-11-05 23:48:19/796] check if any modal needs to be closed...
+[2021-11-05 23:48:23/799] No element .close to be closed
+[2021-11-05 23:48:24/799] No element .modal-close-new to be closed
+[2021-11-05 23:48:28/802] No element .modal-close to be closed
+[2021-11-05 23:48:28/803] check if any modal needs to be closed...
+[2021-11-05 23:48:32/807] No element .close to be closed
+[2021-11-05 23:48:33/807] No element .modal-close-new to be closed
+[2021-11-05 23:48:37/810] No element .modal-close to be closed
+[2021-11-05 23:48:37/823] [1m[97m[45mYour current Energy Capture Rate is 82%[49m[39m[22m
+[2021-11-05 23:48:37/825] getting user quest info from splinterlands API...
+[2021-11-05 23:48:38/742] getting user cards collection from splinterlands API...
+[2021-11-05 23:48:39/656] cards retrieved
+[2021-11-05 23:48:39/656] hammersir  deck size: 128
+[2021-11-05 23:48:39/656] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 0 }
+[2021-11-05 23:48:39/666] no quest reward to be claimed waiting for the battle...
+[2021-11-05 23:48:44/666] waiting for battle button...
+[2021-11-05 23:48:44/671] Battle button clicked
+[2021-11-05 23:48:49/671] waiting for an opponent...
+[2021-11-05 23:48:50/370] start the match
+[2021-11-05 23:49:02/381] check battles based on mana: 20
+[2021-11-05 23:49:02/382] INPUT:  20 Spreading Fury [ 'fire', 'earth', 'life', 'death', 'dragon' ] 128
+[2021-11-05 23:49:02/382] Using Backup  72285
+[2021-11-05 23:49:02/386] Possible Teams based on your cards:  1
+[2021-11-05 23:49:02/386] quest custom option set as: false
+[2021-11-05 23:49:02/386] BESTSUMMONER:  156
+[2021-11-05 23:49:02/386] BEST SUMMONER and TANK {
+  bestSummoner: '156',
+  summonerWins: 1,
+  tankWins: 1,
+  bestTank: '152',
+  bestBackline: '34',
+  backlineWins: 1,
+  bestSecondBackline: '62',
+  secondBacklineWins: 1,
+  bestThirdBackline: '35',
+  thirdBacklineWins: 1,
+  bestForthBackline: '',
+  forthBacklineWins: 1
+}
+[2021-11-05 23:49:02/386] BEST TEAM [
+  156, 152,    34,
+  62,  35,     '',
+  '',  'life', '',
+  ''
+]
+[2021-11-05 23:49:02/386] Dont play for the quest, and play this: [
+  '156',
+  [
+    156, 152,    34,
+    62,  35,     '',
+    '',  'life', '',
+    ''
+  ]
+]
+[2021-11-05 23:49:12/499] play:  152
+[2021-11-05 23:49:13/500] play:  34
+[2021-11-05 23:49:14/501] play:  62
+[2021-11-05 23:49:15/501] play:  35
+[2021-11-05 23:49:16/502] play:  
+[2021-11-05 23:49:16/502] nocard  5
+[2021-11-05 23:49:17/505] play:  
+[2021-11-05 23:49:17/505] nocard  6
+[2021-11-05 23:49:28/518] btnRumble visible
+[2021-11-05 23:49:33/539] btnRumble clicked
+[2021-11-05 23:49:33/551] btnSkip visible
+[2021-11-05 23:49:33/597] btnSkip clicked
+[2021-11-05 23:49:39/610] [32mYou won! Reward: +1.268 DEC[39m
+[2021-11-05 23:49:49/623] Clicking element .btn--done
+[2021-11-05 23:49:59/767] Clicking element #menu_item_battle
+[2021-11-05 23:49:59/939] Total Battles: 5[32m - Win Total: 3[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 2[39m
+[2021-11-05 23:49:59/939] [32mTotal Earned: 3.667 DEC[39m
+[2021-11-05 23:49:59/940] Closing battle 2021/11/5 下午11:49:59
+[2021-11-05 23:50:04/943] seleep time ms: 8406.3171423541
+[2021-11-05 23:50:04/944] hammersir waiting for the next battle in 0.1401052857059017  minutes at  2021/11/5 下午11:50:16
+[2021-11-05 23:50:13/351] Recover Status:  0
+[2021-11-05 23:50:13/351] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-05 23:50:13/352] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-05 23:50:13/352] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-05 23:50:13/352] 2021/11/5 下午11:50:13 Battle Again...
+[2021-11-05 23:50:26/595] check if any modal needs to be closed...
+[2021-11-05 23:50:30/599] No element .close to be closed
+[2021-11-05 23:50:31/601] No element .modal-close-new to be closed
+[2021-11-05 23:50:35/603] No element .modal-close to be closed
+[2021-11-05 23:50:35/604] check if any modal needs to be closed...
+[2021-11-05 23:50:39/603] No element .close to be closed
+[2021-11-05 23:50:40/603] No element .modal-close-new to be closed
+[2021-11-05 23:50:44/607] No element .modal-close to be closed
+[2021-11-05 23:50:44/614] [1m[97m[45mYour current Energy Capture Rate is 79%[49m[39m[22m
+[2021-11-05 23:50:44/615] getting user quest info from splinterlands API...
+[2021-11-05 23:50:45/525] getting user cards collection from splinterlands API...
+[2021-11-05 23:50:46/442] cards retrieved
+[2021-11-05 23:50:46/443] hammersir  deck size: 128
+[2021-11-05 23:50:46/443] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 0 }
+[2021-11-05 23:50:46/453] no quest reward to be claimed waiting for the battle...
+[2021-11-05 23:50:51/453] waiting for battle button...
+[2021-11-05 23:50:51/457] Battle button clicked
+[2021-11-05 23:50:56/458] waiting for an opponent...
+[2021-11-05 23:50:56/461] start the match
+[2021-11-05 23:51:08/478] check battles based on mana: 14
+[2021-11-05 23:51:08/481] INPUT:  14 Standard [ 'fire', 'water', 'earth' ] 128
+[2021-11-05 23:51:08/482] Using Backup  72285
+[2021-11-05 23:51:08/491] Possible Teams based on your cards:  449
+[2021-11-05 23:51:08/491] quest custom option set as: false
+[2021-11-05 23:51:08/492] BESTSUMMONER:  5
+[2021-11-05 23:51:08/493] BEST SUMMONER and TANK {
+  bestSummoner: '5',
+  summonerWins: 180,
+  tankWins: 159,
+  bestTank: '8',
+  bestBackline: '3',
+  backlineWins: 60,
+  bestSecondBackline: '161',
+  secondBacklineWins: 23,
+  bestThirdBackline: '',
+  thirdBacklineWins: 23
+}
+[2021-11-05 23:51:08/493] BEST TEAM [
+  5,   8,      3,
+  161, '',     '',
+  '',  'fire', '',
+  ''
+]
+[2021-11-05 23:51:08/494] Dont play for the quest, and play this: [
+  '5',
+  [
+    5,   8,      3,
+    161, '',     '',
+    '',  'fire', '',
+    ''
+  ]
+]
+[2021-11-05 23:51:18/618] play:  8
+[2021-11-05 23:51:19/619] play:  3
+[2021-11-05 23:51:20/621] play:  161
+[2021-11-05 23:51:21/622] play:  
+[2021-11-05 23:51:21/622] nocard  4
+[2021-11-05 23:51:22/623] play:  
+[2021-11-05 23:51:22/623] nocard  5
+[2021-11-05 23:51:23/625] play:  
+[2021-11-05 23:51:23/625] nocard  6
+[2021-11-05 23:51:51/747] btnRumble visible
+[2021-11-05 23:51:56/757] btnRumble clicked
+[2021-11-05 23:51:56/777] btnSkip visible
+[2021-11-05 23:51:56/821] btnSkip clicked
+[2021-11-05 23:52:02/841] [31mYou lost[39m
+[2021-11-05 23:52:12/855] Clicking element .btn--done
+[2021-11-05 23:52:22/988] Clicking element #menu_item_battle
+[2021-11-05 23:52:23/223] Total Battles: 6[32m - Win Total: 3[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 3[39m
+[2021-11-05 23:52:23/223] [32mTotal Earned: 3.667 DEC[39m
+[2021-11-05 23:52:23/224] Closing battle 2021/11/5 下午11:52:23
+[2021-11-05 23:52:28/223] seleep time ms: 10783.830056918834
+[2021-11-05 23:52:28/223] hammersir waiting for the next battle in 0.17973050094864723  minutes at  2021/11/5 下午11:52:40
+[2021-11-05 23:52:39/15] Recover Status:  0
+[2021-11-05 23:52:39/15] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-05 23:52:39/16] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-05 23:52:39/16] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-05 23:52:39/16] 2021/11/5 下午11:52:39 Battle Again...
+[2021-11-05 23:52:52/611] check if any modal needs to be closed...
+[2021-11-05 23:52:56/613] No element .close to be closed
+[2021-11-05 23:52:57/614] No element .modal-close-new to be closed
+[2021-11-05 23:53:01/615] No element .modal-close to be closed
+[2021-11-05 23:53:01/615] check if any modal needs to be closed...
+[2021-11-05 23:53:05/617] No element .close to be closed
+[2021-11-05 23:53:06/619] No element .modal-close-new to be closed
+[2021-11-05 23:53:10/621] No element .modal-close to be closed
+[2021-11-05 23:53:10/630] [1m[97m[45mYour current Energy Capture Rate is 82%[49m[39m[22m
+[2021-11-05 23:53:10/630] getting user quest info from splinterlands API...
+[2021-11-05 23:53:11/603] getting user cards collection from splinterlands API...
+[2021-11-05 23:53:12/575] cards retrieved
+[2021-11-05 23:53:12/575] hammersir  deck size: 128
+[2021-11-05 23:53:12/575] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 0 }
+[2021-11-05 23:53:12/585] no quest reward to be claimed waiting for the battle...
+[2021-11-05 23:53:17/585] waiting for battle button...
+[2021-11-05 23:53:17/589] Battle button clicked
+[2021-11-05 23:53:22/591] waiting for an opponent...
+[2021-11-05 23:53:24/378] start the match
+[2021-11-05 23:53:36/394] check battles based on mana: 13
+[2021-11-05 23:53:36/394] INPUT:  13 Up Close & Personal [ 'fire', 'water', 'earth', 'death' ] 128
+[2021-11-05 23:53:36/395] Using Backup  72285
+[2021-11-05 23:53:36/400] Possible Teams based on your cards:  7
+[2021-11-05 23:53:36/400] quest custom option set as: false
+[2021-11-05 23:53:36/400] BESTSUMMONER:  5
+[2021-11-05 23:53:36/400] BEST SUMMONER and TANK {
+  bestSummoner: '5',
+  summonerWins: 3,
+  tankWins: 2,
+  bestTank: '8',
+  bestBackline: '158',
+  backlineWins: 2,
+  bestSecondBackline: '62',
+  secondBacklineWins: 2,
+  bestThirdBackline: '',
+  thirdBacklineWins: 2
+}
+[2021-11-05 23:53:36/401] BEST TEAM [
+  5,  8,      158,
+  62, '',     '',
+  '', 'fire', '',
+  ''
+]
+[2021-11-05 23:53:36/401] Dont play for the quest, and play this: [
+  '5',
+  [
+    5,  8,      158,
+    62, '',     '',
+    '', 'fire', '',
+    ''
+  ]
+]
+[2021-11-05 23:53:46/519] play:  8
+[2021-11-05 23:53:47/520] play:  158
+[2021-11-05 23:53:48/521] play:  62
+[2021-11-05 23:53:49/522] play:  
+[2021-11-05 23:53:49/522] nocard  4
+[2021-11-05 23:53:50/524] play:  
+[2021-11-05 23:53:50/524] nocard  5
+[2021-11-05 23:53:51/525] play:  
+[2021-11-05 23:53:51/525] nocard  6
+[2021-11-05 23:54:02/535] btnRumble visible
+[2021-11-05 23:54:07/554] btnRumble clicked
+[2021-11-05 23:54:07/559] btnSkip visible
+[2021-11-05 23:54:07/603] btnSkip clicked
+[2021-11-05 23:54:13/610] [31mYou lost[39m
+[2021-11-05 23:54:23/631] Clicking element .btn--done
+[2021-11-05 23:54:33/759] Clicking element #menu_item_battle
+[2021-11-06 00:09:03/187] START  hammersir 2021/11/6 上午12:09:03
+[2021-11-06 00:09:03/613] Recover Status:  0
+[2021-11-06 00:09:03/615] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 00:09:03/615] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 00:09:03/616] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 00:09:03/617] 2021/11/6 上午12:09:03 opening browser...
+[2021-11-06 00:09:29/11] Login attempt...
+[2021-11-06 00:10:02/219] logged in!
+[2021-11-06 00:10:17/462] check if any modal needs to be closed...
+[2021-11-06 00:10:21/463] No element .close to be closed
+[2021-11-06 00:10:22/463] No element .modal-close-new to be closed
+[2021-11-06 00:10:26/466] No element .modal-close to be closed
+[2021-11-06 00:10:26/467] check if any modal needs to be closed...
+[2021-11-06 00:10:30/470] No element .close to be closed
+[2021-11-06 00:10:31/471] No element .modal-close-new to be closed
+[2021-11-06 00:10:35/471] No element .modal-close to be closed
+[2021-11-06 00:10:35/480] [1m[97m[45mYour current Energy Capture Rate is 78%[49m[39m[22m
+[2021-11-06 00:10:35/480] getting user quest info from splinterlands API...
+[2021-11-06 00:10:36/415] getting user cards collection from splinterlands API...
+[2021-11-06 00:10:37/401] cards retrieved
+[2021-11-06 00:10:37/401] hammersir  deck size: 128
+[2021-11-06 00:10:37/401] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 0 }
+[2021-11-06 00:10:37/414] no quest reward to be claimed waiting for the battle...
+[2021-11-06 00:10:42/414] waiting for battle button...
+[2021-11-06 00:10:42/433] Battle button clicked
+[2021-11-06 00:10:47/435] waiting for an opponent...
+[2021-11-06 00:10:49/870] start the match
+[2021-11-06 00:11:01/882] check battles based on mana: 22
+[2021-11-06 00:11:01/883] INPUT:  22 Equal Opportunity [ 'fire', 'life', 'dragon' ] 128
+[2021-11-06 00:11:01/884] Using Backup  72285
+[2021-11-06 00:11:01/888] Possible Teams based on your cards:  2
+[2021-11-06 00:11:01/889] quest custom option set as: false
+[2021-11-06 00:11:01/889] BESTSUMMONER:  5
+[2021-11-06 00:11:01/890] BEST SUMMONER and TANK {
+  bestSummoner: '5',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '8',
+  bestBackline: '157',
+  backlineWins: 2,
+  bestSecondBackline: '158',
+  secondBacklineWins: 2,
+  bestThirdBackline: '3',
+  thirdBacklineWins: 2,
+  bestForthBackline: '161',
+  forthBacklineWins: 2
+}
+[2021-11-06 00:11:01/891] BEST TEAM [
+  5,   8,      157,
+  158, 3,      161,
+  64,  'fire', '',
+  ''
+]
+[2021-11-06 00:11:01/892] Dont play for the quest, and play this: [
+  '5',
+  [
+    5,   8,      157,
+    158, 3,      161,
+    64,  'fire', '',
+    ''
+  ]
+]
+[2021-11-06 00:11:12/746] play:  8
+[2021-11-06 00:11:13/747] play:  157
+[2021-11-06 00:11:14/747] play:  158
+[2021-11-06 00:11:15/748] play:  3
+[2021-11-06 00:11:16/749] play:  161
+[2021-11-06 00:11:17/750] play:  64
+[2021-11-06 00:12:18/410] btnRumble visible
+[2021-11-06 00:12:23/424] btnRumble clicked
+[2021-11-06 00:12:23/427] btnSkip visible
+[2021-11-06 00:12:23/456] btnSkip clicked
+[2021-11-06 00:12:29/994] [32mYou won! Reward: +1.119 DEC[39m
+[2021-11-06 00:12:40/7] Clicking element .btn--done
+[2021-11-06 00:12:50/127] Clicking element #menu_item_battle
+[2021-11-06 00:12:50/260] Total Battles: 1[32m - Win Total: 1[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 0[39m
+[2021-11-06 00:12:50/260] [32mTotal Earned: 1.119 DEC[39m
+[2021-11-06 00:12:50/260] Closing battle 2021/11/6 上午12:12:50
+[2021-11-06 00:12:55/263] seleep time ms: 6038.412696979859
+[2021-11-06 00:12:55/263] hammersir waiting for the next battle in 0.10064021161633098  minutes at  2021/11/6 上午12:13:07
+[2021-11-06 00:13:01/308] Recover Status:  0
+[2021-11-06 00:13:01/308] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 00:13:01/308] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 00:13:01/308] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 00:13:01/309] 2021/11/6 上午12:13:01 Battle Again...
+[2021-11-06 00:13:11/707] check if any modal needs to be closed...
+[2021-11-06 00:13:15/707] No element .close to be closed
+[2021-11-06 00:13:16/709] No element .modal-close-new to be closed
+[2021-11-06 00:13:20/714] No element .modal-close to be closed
+[2021-11-06 00:13:20/714] check if any modal needs to be closed...
+[2021-11-06 00:13:24/718] No element .close to be closed
+[2021-11-06 00:13:25/720] No element .modal-close-new to be closed
+[2021-11-06 00:13:29/723] No element .modal-close to be closed
+[2021-11-06 00:13:29/731] [1m[97m[45mYour current Energy Capture Rate is 77%[49m[39m[22m
+[2021-11-06 00:13:29/731] getting user quest info from splinterlands API...
+[2021-11-06 00:13:30/601] getting user cards collection from splinterlands API...
+[2021-11-06 00:13:31/502] cards retrieved
+[2021-11-06 00:13:31/502] hammersir  deck size: 128
+[2021-11-06 00:13:31/502] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 1 }
+[2021-11-06 00:13:31/510] no quest reward to be claimed waiting for the battle...
+[2021-11-06 00:13:36/511] waiting for battle button...
+[2021-11-06 00:13:36/515] Battle button clicked
+[2021-11-06 00:13:41/516] waiting for an opponent...
+[2021-11-06 00:13:41/520] start the match
+[2021-11-06 00:13:53/535] check battles based on mana: 21
+[2021-11-06 00:13:53/536] INPUT:  21 Odd Ones Out [ 'fire', 'water', 'earth', 'dragon' ] 128
+[2021-11-06 00:13:53/536] Using Backup  72285
+[2021-11-06 00:13:53/542] Possible Teams based on your cards:  1
+[2021-11-06 00:13:53/542] quest custom option set as: false
+[2021-11-06 00:13:53/542] BESTSUMMONER:  178
+[2021-11-06 00:13:53/543] BEST SUMMONER and TANK {
+  bestSummoner: '178',
+  summonerWins: 1,
+  tankWins: 1,
+  bestTank: '174',
+  bestBackline: '14',
+  backlineWins: 1,
+  bestSecondBackline: '12',
+  secondBacklineWins: 1,
+  bestThirdBackline: '18',
+  thirdBacklineWins: 1,
+  bestForthBackline: '',
+  forthBacklineWins: 1
+}
+[2021-11-06 00:13:53/543] BEST TEAM [
+  178, 174,     14,
+  12,  18,      '',
+  '',  'water', '',
+  ''
+]
+[2021-11-06 00:13:53/543] Dont play for the quest, and play this: [
+  '178',
+  [
+    178, 174,     14,
+    12,  18,      '',
+    '',  'water', '',
+    ''
+  ]
+]
+[2021-11-06 00:14:03/647] play:  174
+[2021-11-06 00:14:04/649] play:  14
+[2021-11-06 00:14:05/650] play:  12
+[2021-11-06 00:14:06/651] play:  18
+[2021-11-06 00:14:07/651] play:  
+[2021-11-06 00:14:07/652] nocard  5
+[2021-11-06 00:14:08/653] play:  
+[2021-11-06 00:14:08/654] nocard  6
+[2021-11-06 00:14:26/819] btnRumble visible
+[2021-11-06 00:14:31/827] btnRumble clicked
+[2021-11-06 00:14:31/842] btnSkip visible
+[2021-11-06 00:14:31/871] btnSkip clicked
+[2021-11-06 00:14:37/894] [31mYou lost[39m
+[2021-11-06 00:14:47/911] Clicking element .btn--done
+[2021-11-06 00:14:58/40] Clicking element #menu_item_battle
+[2021-11-06 00:14:58/210] Total Battles: 2[32m - Win Total: 1[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 1[39m
+[2021-11-06 00:14:58/210] [32mTotal Earned: 1.119 DEC[39m
+[2021-11-06 00:14:58/210] Closing battle 2021/11/6 上午12:14:58
+[2021-11-06 00:15:03/211] seleep time ms: 6155.49818409301
+[2021-11-06 00:15:03/212] hammersir waiting for the next battle in 0.10259163640155018  minutes at  2021/11/6 上午12:15:15
+[2021-11-06 00:15:09/367] Recover Status:  0
+[2021-11-06 00:15:09/368] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 00:15:09/368] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 00:15:09/368] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 00:15:09/368] 2021/11/6 上午12:15:09 Battle Again...
+[2021-11-06 00:15:20/226] check if any modal needs to be closed...
+[2021-11-06 00:15:24/227] No element .close to be closed
+[2021-11-06 00:15:25/228] No element .modal-close-new to be closed
+[2021-11-06 00:15:29/231] No element .modal-close to be closed
+[2021-11-06 00:15:29/231] check if any modal needs to be closed...
+[2021-11-06 00:15:33/235] No element .close to be closed
+[2021-11-06 00:15:34/235] No element .modal-close-new to be closed
+[2021-11-06 00:15:38/237] No element .modal-close to be closed
+[2021-11-06 00:15:38/244] [1m[97m[45mYour current Energy Capture Rate is 78%[49m[39m[22m
+[2021-11-06 00:15:38/245] getting user quest info from splinterlands API...
+[2021-11-06 00:15:39/133] getting user cards collection from splinterlands API...
+[2021-11-06 00:15:40/19] cards retrieved
+[2021-11-06 00:15:40/19] hammersir  deck size: 128
+[2021-11-06 00:15:40/19] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 1 }
+[2021-11-06 00:15:40/26] no quest reward to be claimed waiting for the battle...
+[2021-11-06 00:15:45/26] waiting for battle button...
+[2021-11-06 00:15:45/30] Battle button clicked
+[2021-11-06 00:15:50/31] waiting for an opponent...
+[2021-11-06 00:15:50/102] start the match
+[2021-11-06 00:16:02/118] check battles based on mana: 13
+[2021-11-06 00:16:02/118] INPUT:  13 Taking Sides [ 'fire', 'water', 'earth', 'life', 'death', 'dragon' ] 128
+[2021-11-06 00:16:02/118] Using Backup  72285
+[2021-11-06 00:16:02/126] Possible Teams based on your cards:  13
+[2021-11-06 00:16:02/126] quest custom option set as: false
+[2021-11-06 00:16:02/126] BESTSUMMONER:  49
+[2021-11-06 00:16:02/127] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 5,
+  tankWins: 5,
+  bestTank: '50',
+  bestBackline: '138',
+  backlineWins: 2,
+  bestSecondBackline: '47',
+  secondBacklineWins: 2,
+  bestThirdBackline: '',
+  thirdBacklineWins: 2
+}
+[2021-11-06 00:16:02/128] BEST TEAM [
+  49, 50,      138,
+  47, '',      '',
+  '', 'death', '',
+  ''
+]
+[2021-11-06 00:16:02/129] Dont play for the quest, and play this: [
+  '49',
+  [
+    49, 50,      138,
+    47, '',      '',
+    '', 'death', '',
+    ''
+  ]
+]
+[2021-11-06 00:16:12/234] play:  50
+[2021-11-06 00:16:13/234] play:  138
+[2021-11-06 00:16:14/235] play:  47
+[2021-11-06 00:16:15/236] play:  
+[2021-11-06 00:16:15/237] nocard  4
+[2021-11-06 00:16:16/237] play:  
+[2021-11-06 00:16:16/237] nocard  5
+[2021-11-06 00:16:17/238] play:  
+[2021-11-06 00:16:17/239] nocard  6
+[2021-11-06 00:16:28/251] btnRumble visible
+[2021-11-06 00:16:33/259] btnRumble clicked
+[2021-11-06 00:16:33/265] btnSkip visible
+[2021-11-06 00:16:33/296] btnSkip clicked
+[2021-11-06 00:16:53/307] Could not find winner - draw?
+[2021-11-06 00:17:03/319] Clicking element .btn--done
+[2021-11-06 00:17:13/431] Clicking element #menu_item_battle
+[2021-11-06 00:17:13/591] Total Battles: 3[32m - Win Total: 1[39m[33m - Draw? Total: 1[39m[31m - Lost Total: 1[39m
+[2021-11-06 00:17:13/591] [32mTotal Earned: 1.119 DEC[39m
+[2021-11-06 00:17:13/591] Closing battle 2021/11/6 上午12:17:13
+[2021-11-06 00:17:18/593] seleep time ms: 11710.906473931132
+[2021-11-06 00:17:18/594] hammersir waiting for the next battle in 0.19518177456551886  minutes at  2021/11/6 上午12:17:30
+[2021-11-06 00:17:30/309] Recover Status:  0
+[2021-11-06 00:17:30/310] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 00:17:30/310] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 00:17:30/310] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 00:17:30/310] 2021/11/6 上午12:17:30 Battle Again...
+[2021-11-06 00:17:41/256] check if any modal needs to be closed...
+[2021-11-06 00:17:45/259] No element .close to be closed
+[2021-11-06 00:17:46/259] No element .modal-close-new to be closed
+[2021-11-06 00:17:50/259] No element .modal-close to be closed
+[2021-11-06 00:17:50/259] check if any modal needs to be closed...
+[2021-11-06 00:17:54/261] No element .close to be closed
+[2021-11-06 00:17:55/262] No element .modal-close-new to be closed
+[2021-11-06 00:17:59/263] No element .modal-close to be closed
+[2021-11-06 00:17:59/272] [1m[97m[45mYour current Energy Capture Rate is 76%[49m[39m[22m
+[2021-11-06 00:17:59/273] getting user quest info from splinterlands API...
+[2021-11-06 00:18:00/132] getting user cards collection from splinterlands API...
+[2021-11-06 00:18:01/6] cards retrieved
+[2021-11-06 00:18:01/6] hammersir  deck size: 128
+[2021-11-06 00:18:01/6] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 1 }
+[2021-11-06 00:18:01/13] no quest reward to be claimed waiting for the battle...
+[2021-11-06 00:18:06/13] waiting for battle button...
+[2021-11-06 00:18:06/18] Battle button clicked
+[2021-11-06 00:18:11/22] waiting for an opponent...
+[2021-11-06 00:18:14/427] start the match
+[2021-11-06 00:18:26/439] check battles based on mana: 22
+[2021-11-06 00:18:26/440] INPUT:  22 Target Practice [ 'fire', 'water', 'death', 'dragon' ] 128
+[2021-11-06 00:18:26/440] Using Backup  72285
+[2021-11-06 00:18:26/443] Possible Teams based on your cards:  8
+[2021-11-06 00:18:26/443] quest custom option set as: false
+[2021-11-06 00:18:26/444] BESTSUMMONER:  49
+[2021-11-06 00:18:26/444] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 4,
+  tankWins: 4,
+  bestTank: '50',
+  bestBackline: '138',
+  backlineWins: 2,
+  bestSecondBackline: '47',
+  secondBacklineWins: 2,
+  bestThirdBackline: '52',
+  thirdBacklineWins: 2,
+  bestForthBackline: '141',
+  forthBacklineWins: 2
+}
+[2021-11-06 00:18:26/444] BEST TEAM [
+  49, 50,      138,
+  47, 52,      141,
+  51, 'death', '',
+  ''
+]
+[2021-11-06 00:18:26/444] Dont play for the quest, and play this: [
+  '49',
+  [
+    49, 50,      138,
+    47, 52,      141,
+    51, 'death', '',
+    ''
+  ]
+]
+[2021-11-06 00:18:36/541] play:  50
+[2021-11-06 00:18:37/542] play:  138
+[2021-11-06 00:18:38/543] play:  47
+[2021-11-06 00:18:39/544] play:  52
+[2021-11-06 00:18:40/545] play:  141
+[2021-11-06 00:18:41/547] play:  51
+[2021-11-06 00:19:09/525] btnRumble visible
+[2021-11-06 00:19:14/537] btnRumble clicked
+[2021-11-06 00:19:14/541] btnSkip visible
+[2021-11-06 00:19:14/596] btnSkip clicked
+[2021-11-06 00:19:20/601] [31mYou lost[39m
+[2021-11-06 00:19:30/613] Clicking element .btn--done
+[2021-11-06 00:19:40/771] Clicking element #menu_item_battle
+[2021-11-06 00:19:41/3] Total Battles: 4[32m - Win Total: 1[39m[33m - Draw? Total: 1[39m[31m - Lost Total: 2[39m
+[2021-11-06 00:19:41/3] [32mTotal Earned: 1.119 DEC[39m
+[2021-11-06 00:19:41/3] Closing battle 2021/11/6 上午12:19:41
+[2021-11-06 00:19:46/3] seleep time ms: 8241.38879774917
+[2021-11-06 00:19:46/4] hammersir waiting for the next battle in 0.13735647996248618  minutes at  2021/11/6 上午12:19:58
+[2021-11-06 00:22:07/819] START  hammersir 2021/11/6 上午12:22:07
+[2021-11-06 00:22:08/200] Recover Status:  0
+[2021-11-06 00:22:08/201] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 00:22:08/201] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 00:22:08/201] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 00:22:08/202] 2021/11/6 上午12:22:08 opening browser...
+[2021-11-06 00:22:39/79] Login attempt...
+[2021-11-06 00:23:00/903] logged in!
+[2021-11-06 00:23:04/747] current url https://splinterlands.com/?p=about-player
+[2021-11-06 00:23:13/732] check if any modal needs to be closed...
+[2021-11-06 00:23:17/732] No element .close to be closed
+[2021-11-06 00:23:18/733] No element .modal-close-new to be closed
+[2021-11-06 00:23:22/735] No element .modal-close to be closed
+[2021-11-06 00:23:22/736] check if any modal needs to be closed...
+[2021-11-06 00:23:26/739] No element .close to be closed
+[2021-11-06 00:23:27/739] No element .modal-close-new to be closed
+[2021-11-06 00:23:31/743] No element .modal-close to be closed
+[2021-11-06 00:23:31/755] [1m[97m[45mYour current Energy Capture Rate is 75%[49m[39m[22m
+[2021-11-06 00:23:31/756] getting user quest info from splinterlands API...
+[2021-11-06 00:23:32/646] getting user cards collection from splinterlands API...
+[2021-11-06 00:23:33/865] cards retrieved
+[2021-11-06 00:23:33/866] hammersir  deck size: 128
+[2021-11-06 00:23:33/866] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 1 }
+[2021-11-06 00:23:33/875] no quest reward to be claimed waiting for the battle...
+[2021-11-06 00:23:38/875] waiting for battle button...
+[2021-11-06 00:23:38/880] Battle button clicked
+[2021-11-06 00:23:43/883] waiting for an opponent...
+[2021-11-06 00:23:46/602] start the match
+[2021-11-06 00:23:58/618] check battles based on mana: 30
+[2021-11-06 00:23:58/619] INPUT:  30 Back to Basics [ 'fire', 'earth', 'life', 'death', 'dragon' ] 128
+[2021-11-06 00:23:58/620] Using Backup  72285
+[2021-11-06 00:23:58/625] check battles based on mana: 29
+[2021-11-06 00:23:58/626] INPUT:  29 Back to Basics [ 'fire', 'earth', 'life', 'death', 'dragon' ] 128
+[2021-11-06 00:23:58/626] Using Backup  72285
+[2021-11-06 00:23:58/631] Possible Teams based on your cards:  1
+[2021-11-06 00:23:58/633] quest custom option set as: false
+[2021-11-06 00:23:58/635] BESTSUMMONER:  189
+[2021-11-06 00:23:58/637] BEST SUMMONER and TANK {
+  bestSummoner: '189',
+  summonerWins: 1,
+  tankWins: 1,
+  bestTank: '184',
+  bestBackline: '195',
+  backlineWins: 1,
+  bestSecondBackline: '183',
+  secondBacklineWins: 1,
+  bestThirdBackline: '179',
+  thirdBacklineWins: 1,
+  bestForthBackline: '185',
+  forthBacklineWins: 1
+}
+[2021-11-06 00:23:58/638] BEST TEAM [
+  189, 184,
+  195, 183,
+  179, 185,
+  180, 'earth',
+  '',  ''
+]
+[2021-11-06 00:23:58/639] Dont play for the quest, and play this: [
+  '189',
+  [
+    189, 184,
+    195, 183,
+    179, 185,
+    180, 'earth',
+    '',  ''
+  ]
+]
+[2021-11-06 00:24:09/602] play:  184
+[2021-11-06 00:24:10/602] play:  195
+[2021-11-06 00:24:11/603] play:  183
+[2021-11-06 00:24:12/604] play:  179
+[2021-11-06 00:24:13/604] play:  185
+[2021-11-06 00:24:14/605] play:  180
+[2021-11-06 00:24:43/594] btnRumble visible
+[2021-11-06 00:24:48/609] btnRumble clicked
+[2021-11-06 00:24:48/616] btnSkip visible
+[2021-11-06 00:24:48/661] btnSkip clicked
+[2021-11-06 00:24:57/420] [31mYou lost[39m
+[2021-11-06 00:25:07/427] Clicking element .btn--done
+[2021-11-06 00:25:17/547] Clicking element #menu_item_battle
+[2021-11-06 00:25:17/722] Total Battles: 1[32m - Win Total: 0[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 1[39m
+[2021-11-06 00:25:17/723] [32mTotal Earned: 0 DEC[39m
+[2021-11-06 00:25:17/723] Closing battle 2021/11/6 上午12:25:17
+[2021-11-06 00:25:22/728] seleep time ms: 9076.369155741724
+[2021-11-06 00:25:22/728] hammersir waiting for the next battle in 0.15127281926236208  minutes at  2021/11/6 上午12:25:34
+[2021-11-06 00:25:31/814] Recover Status:  0
+[2021-11-06 00:25:31/815] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 00:25:31/815] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 00:25:31/815] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 00:25:31/815] 2021/11/6 上午12:25:31 Battle Again...
+[2021-11-06 00:25:31/815] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 00:25:40/401] check if any modal needs to be closed...
+[2021-11-06 00:25:44/406] No element .close to be closed
+[2021-11-06 00:25:45/407] No element .modal-close-new to be closed
+[2021-11-06 00:25:49/407] No element .modal-close to be closed
+[2021-11-06 00:25:49/407] check if any modal needs to be closed...
+[2021-11-06 00:25:53/407] No element .close to be closed
+[2021-11-06 00:25:54/407] No element .modal-close-new to be closed
+[2021-11-06 00:25:58/407] No element .modal-close to be closed
+[2021-11-06 00:25:58/416] [1m[97m[45mYour current Energy Capture Rate is 75%[49m[39m[22m
+[2021-11-06 00:25:58/416] getting user quest info from splinterlands API...
+[2021-11-06 00:25:59/296] getting user cards collection from splinterlands API...
+[2021-11-06 00:26:00/166] cards retrieved
+[2021-11-06 00:26:00/166] hammersir  deck size: 128
+[2021-11-06 00:26:00/166] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 1 }
+[2021-11-06 00:26:00/173] no quest reward to be claimed waiting for the battle...
+[2021-11-06 00:26:05/173] waiting for battle button...
+[2021-11-06 00:26:05/178] Battle button clicked
+[2021-11-06 00:26:10/179] waiting for an opponent...
+[2021-11-06 00:26:10/203] start the match
+[2021-11-06 00:26:22/218] check battles based on mana: 21
+[2021-11-06 00:26:22/219] INPUT:  21 Silenced Summoners [ 'fire', 'life', 'death', 'dragon' ] 128
+[2021-11-06 00:26:22/219] Using Backup  72285
+[2021-11-06 00:26:22/223] Possible Teams based on your cards:  12
+[2021-11-06 00:26:22/223] quest custom option set as: false
+[2021-11-06 00:26:22/223] BESTSUMMONER:  49
+[2021-11-06 00:26:22/223] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 6,
+  tankWins: 3,
+  bestTank: '136',
+  bestBackline: '50',
+  backlineWins: 3,
+  bestSecondBackline: '52',
+  secondBacklineWins: 3,
+  bestThirdBackline: '47',
+  thirdBacklineWins: 3,
+  bestForthBackline: '141',
+  forthBacklineWins: 3
+}
+[2021-11-06 00:26:22/224] BEST TEAM [
+  49, 136,     50,
+  52, 47,      141,
+  51, 'death', '',
+  ''
+]
+[2021-11-06 00:26:22/224] Dont play for the quest, and play this: [
+  '49',
+  [
+    49, 136,     50,
+    52, 47,      141,
+    51, 'death', '',
+    ''
+  ]
+]
+[2021-11-06 00:26:32/352] play:  136
+[2021-11-06 00:26:33/352] play:  50
+[2021-11-06 00:26:34/352] play:  52
+[2021-11-06 00:26:35/353] play:  47
+[2021-11-06 00:26:36/354] play:  141
+[2021-11-06 00:26:37/356] play:  51
+[2021-11-06 00:26:48/565] btnRumble visible
+[2021-11-06 00:26:53/581] btnRumble clicked
+[2021-11-06 00:26:53/592] btnSkip visible
+[2021-11-06 00:26:53/619] btnSkip clicked
+[2021-11-06 00:26:59/643] [31mYou lost[39m
+[2021-11-06 00:27:09/657] Clicking element .btn--done
+[2021-11-06 00:27:19/781] Clicking element #menu_item_battle
+[2021-11-06 00:27:19/958] Total Battles: 2[32m - Win Total: 0[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 2[39m
+[2021-11-06 00:27:19/959] [32mTotal Earned: 0 DEC[39m
+[2021-11-06 00:27:19/959] Closing battle 2021/11/6 上午12:27:19
+[2021-11-06 00:27:24/963] seleep time ms: 6454.390997264369
+[2021-11-06 00:27:24/963] hammersir waiting for the next battle in 0.10757318328773949  minutes at  2021/11/6 上午12:27:36
+[2021-11-06 00:27:31/423] Recover Status:  0
+[2021-11-06 00:27:31/424] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 00:27:31/424] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 00:27:31/424] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 00:27:31/424] 2021/11/6 上午12:27:31 Battle Again...
+[2021-11-06 00:27:31/424] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 00:27:42/359] check if any modal needs to be closed...
+[2021-11-06 00:27:46/363] No element .close to be closed
+[2021-11-06 00:27:47/363] No element .modal-close-new to be closed
+[2021-11-06 00:27:51/367] No element .modal-close to be closed
+[2021-11-06 00:27:51/367] check if any modal needs to be closed...
+[2021-11-06 00:27:55/371] No element .close to be closed
+[2021-11-06 00:27:56/372] No element .modal-close-new to be closed
+[2021-11-06 00:28:00/375] No element .modal-close to be closed
+[2021-11-06 00:28:00/385] [1m[97m[45mYour current Energy Capture Rate is 74%[49m[39m[22m
+[2021-11-06 00:28:00/386] getting user quest info from splinterlands API...
+[2021-11-06 00:28:01/249] getting user cards collection from splinterlands API...
+[2021-11-06 00:28:02/138] cards retrieved
+[2021-11-06 00:28:02/138] hammersir  deck size: 128
+[2021-11-06 00:28:02/138] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 1 }
+[2021-11-06 00:28:02/144] no quest reward to be claimed waiting for the battle...
+[2021-11-06 00:28:07/145] waiting for battle button...
+[2021-11-06 00:28:07/149] Battle button clicked
+[2021-11-06 00:28:12/151] waiting for an opponent...
+[2021-11-06 00:28:12/156] start the match
+[2021-11-06 00:28:24/169] check battles based on mana: 25
+[2021-11-06 00:28:24/170] INPUT:  25 Silenced Summoners [ 'fire', 'water', 'earth', 'life', 'death', 'dragon' ] 128
+[2021-11-06 00:28:24/170] Using Backup  72285
+[2021-11-06 00:28:24/173] Possible Teams based on your cards:  2
+[2021-11-06 00:28:24/174] quest custom option set as: false
+[2021-11-06 00:28:24/174] BESTSUMMONER:  167
+[2021-11-06 00:28:24/174] BEST SUMMONER and TANK {
+  bestSummoner: '167',
+  summonerWins: 1,
+  tankWins: 1,
+  bestTank: '157',
+  bestBackline: '162',
+  backlineWins: 1,
+  bestSecondBackline: '158',
+  secondBacklineWins: 1,
+  bestThirdBackline: '161',
+  thirdBacklineWins: 1,
+  bestForthBackline: '163',
+  forthBacklineWins: 1
+}
+[2021-11-06 00:28:24/174] BEST TEAM [
+  167, 157,    162,
+  158, 161,    163,
+  '',  'fire', '',
+  ''
+]
+[2021-11-06 00:28:24/174] Dont play for the quest, and play this: [
+  '167',
+  [
+    167, 157,    162,
+    158, 161,    163,
+    '',  'fire', '',
+    ''
+  ]
+]
+[2021-11-06 00:28:34/306] play:  157
+[2021-11-06 00:28:35/306] play:  162
+[2021-11-06 00:28:36/307] play:  158
+[2021-11-06 00:28:37/307] play:  161
+[2021-11-06 00:28:38/308] play:  163
+[2021-11-06 00:28:39/309] play:  
+[2021-11-06 00:28:39/309] nocard  6
+[2021-11-06 00:28:51/708] btnRumble visible
+[2021-11-06 00:28:56/717] btnRumble clicked
+[2021-11-06 00:28:56/731] btnSkip visible
+[2021-11-06 00:28:56/758] btnSkip clicked
+[2021-11-06 00:29:02/780] [31mYou lost[39m
+[2021-11-06 00:29:12/795] Clicking element .btn--done
+[2021-11-06 00:29:23/810] START  hammersir 2021/11/6 上午12:29:23
+[2021-11-06 00:29:24/195] Recover Status:  0
+[2021-11-06 00:29:24/198] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 00:29:24/198] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 00:29:24/199] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 00:29:24/201] 2021/11/6 上午12:29:24 opening browser...
+[2021-11-06 00:29:46/640] Login attempt...
+[2021-11-06 00:30:12/55] logged in!
+[2021-11-06 00:30:16/586] current url https://splinterlands.com/?p=about-player
+[2021-11-06 00:30:16/586] goto  url https://splinterlands.com/?p=battle_history
+[2021-11-06 00:30:26/551] check if any modal needs to be closed...
+[2021-11-06 00:30:30/551] No element .close to be closed
+[2021-11-06 00:30:31/551] No element .modal-close-new to be closed
+[2021-11-06 00:30:35/552] No element .modal-close to be closed
+[2021-11-06 00:30:35/552] check if any modal needs to be closed...
+[2021-11-06 00:30:39/553] No element .close to be closed
+[2021-11-06 00:30:40/553] No element .modal-close-new to be closed
+[2021-11-06 00:30:44/555] No element .modal-close to be closed
+[2021-11-06 00:30:44/567] [1m[97m[45mYour current Energy Capture Rate is 74%[49m[39m[22m
+[2021-11-06 00:30:44/567] getting user quest info from splinterlands API...
+[2021-11-06 00:30:45/459] getting user cards collection from splinterlands API...
+[2021-11-06 00:30:46/364] cards retrieved
+[2021-11-06 00:30:46/365] hammersir  deck size: 128
+[2021-11-06 00:30:46/365] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 1 }
+[2021-11-06 00:30:46/374] no quest reward to be claimed waiting for the battle...
+[2021-11-06 00:30:51/374] waiting for battle button...
+[2021-11-06 00:30:51/378] Battle button clicked
+[2021-11-06 00:30:56/380] waiting for an opponent...
+[2021-11-06 00:30:56/702] start the match
+[2021-11-06 00:31:08/719] check battles based on mana: 22
+[2021-11-06 00:31:08/720] INPUT:  22 Even Stevens [ 'fire', 'water', 'earth', 'death', 'dragon' ] 128
+[2021-11-06 00:31:08/721] Using Backup  72285
+[2021-11-06 00:31:08/726] Possible Teams based on your cards:  9
+[2021-11-06 00:31:08/726] quest custom option set as: false
+[2021-11-06 00:31:08/727] BESTSUMMONER:  16
+[2021-11-06 00:31:08/727] BEST SUMMONER and TANK {
+  bestSummoner: '16',
+  summonerWins: 4,
+  tankWins: 4,
+  bestTank: '13',
+  bestBackline: '63',
+  backlineWins: 2,
+  bestSecondBackline: '17',
+  secondBacklineWins: 2,
+  bestThirdBackline: '172',
+  thirdBacklineWins: 2,
+  bestForthBackline: '194',
+  forthBacklineWins: 2
+}
+[2021-11-06 00:31:08/727] BEST TEAM [
+  16, 13,      63,
+  17, 172,     194,
+  '', 'water', '',
+  ''
+]
+[2021-11-06 00:31:08/728] Dont play for the quest, and play this: [
+  '16',
+  [
+    16, 13,      63,
+    17, 172,     194,
+    '', 'water', '',
+    ''
+  ]
+]
+[2021-11-06 00:31:18/799] play:  13
+[2021-11-06 00:31:19/799] play:  63
+[2021-11-06 00:31:20/800] play:  17
+[2021-11-06 00:31:21/801] play:  172
+[2021-11-06 00:31:22/802] play:  194
+[2021-11-06 00:31:23/803] play:  
+[2021-11-06 00:31:23/803] nocard  6
+[2021-11-06 00:31:35/301] btnRumble visible
+[2021-11-06 00:31:40/310] btnRumble clicked
+[2021-11-06 00:31:40/326] btnSkip visible
+[2021-11-06 00:31:40/352] btnSkip clicked
+[2021-11-06 00:31:47/505] [32mYou won! Reward: +1.045 DEC[39m
+[2021-11-06 00:31:57/519] Clicking element .btn--done
+[2021-11-06 00:32:07/639] Clicking element #menu_item_battle
+[2021-11-06 00:32:07/795] Total Battles: 1[32m - Win Total: 1[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 0[39m
+[2021-11-06 00:32:07/795] [32mTotal Earned: 1.045 DEC[39m
+[2021-11-06 00:32:07/795] Closing battle 2021/11/6 上午12:32:07
+[2021-11-06 00:32:12/799] seleep time ms: 9514.926161871863
+[2021-11-06 00:32:12/800] hammersir waiting for the next battle in 0.15858210269786438  minutes at  2021/11/6 上午12:32:24
+[2021-11-06 00:32:22/315] Recover Status:  0
+[2021-11-06 00:32:22/316] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 00:32:22/316] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 00:32:22/316] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 00:32:22/316] 2021/11/6 上午12:32:22 Battle Again...
+[2021-11-06 00:32:22/316] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 00:32:22/332] [1m[97m[45mYour current Energy Capture Rate is 74%[49m[39m[22m
+[2021-11-06 00:32:22/335] getting user quest info from splinterlands API...
+[2021-11-06 00:32:23/253] getting user cards collection from splinterlands API...
+[2021-11-06 00:32:24/135] cards retrieved
+[2021-11-06 00:32:24/135] hammersir  deck size: 128
+[2021-11-06 00:32:24/135] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 1 }
+[2021-11-06 00:32:24/143] no quest reward to be claimed waiting for the battle...
+[2021-11-06 00:32:29/142] waiting for battle button...
+[2021-11-06 00:32:29/146] Battle button clicked
+[2021-11-06 00:32:34/147] waiting for an opponent...
+[2021-11-06 00:32:35/447] start the match
+[2021-11-06 00:32:47/459] check battles based on mana: 14
+[2021-11-06 00:32:47/459] INPUT:  14 Fog of War [ 'fire', 'earth', 'dragon' ] 128
+[2021-11-06 00:32:47/460] Using Backup  72285
+[2021-11-06 00:32:47/464] Possible Teams based on your cards:  8
+[2021-11-06 00:32:47/464] quest custom option set as: false
+[2021-11-06 00:32:47/465] BESTSUMMONER:  167
+[2021-11-06 00:32:47/465] BEST SUMMONER and TANK {
+  bestSummoner: '167',
+  summonerWins: 5,
+  tankWins: 4,
+  bestTank: '8',
+  bestBackline: '3',
+  backlineWins: 4,
+  bestSecondBackline: '161',
+  secondBacklineWins: 4,
+  bestThirdBackline: '',
+  thirdBacklineWins: 4
+}
+[2021-11-06 00:32:47/465] BEST TEAM [
+  167, 8,      3,
+  161, '',     '',
+  '',  'fire', '',
+  ''
+]
+[2021-11-06 00:32:47/465] Dont play for the quest, and play this: [
+  '167',
+  [
+    167, 8,      3,
+    161, '',     '',
+    '',  'fire', '',
+    ''
+  ]
+]
+[2021-11-06 00:32:57/587] play:  8
+[2021-11-06 00:32:58/588] play:  3
+[2021-11-06 00:32:59/589] play:  161
+[2021-11-06 00:33:00/590] play:  
+[2021-11-06 00:33:00/590] nocard  4
+[2021-11-06 00:33:01/591] play:  
+[2021-11-06 00:33:01/591] nocard  5
+[2021-11-06 00:33:02/593] play:  
+[2021-11-06 00:33:02/593] nocard  6
+[2021-11-06 00:33:13/604] btnRumble visible
+[2021-11-06 00:33:18/612] btnRumble clicked
+[2021-11-06 00:33:18/617] btnSkip visible
+[2021-11-06 00:33:18/646] btnSkip clicked
+[2021-11-06 00:33:24/662] [32mYou won! Reward: +1.086 DEC[39m
+[2021-11-06 00:33:34/679] Clicking element .btn--done
+[2021-11-06 00:33:44/799] Clicking element #menu_item_battle
+[2021-11-06 00:33:44/966] Total Battles: 2[32m - Win Total: 2[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 0[39m
+[2021-11-06 00:33:44/966] [32mTotal Earned: 2.1310000000000002 DEC[39m
+[2021-11-06 00:33:44/966] Closing battle 2021/11/6 上午12:33:44
+[2021-11-06 00:33:49/967] seleep time ms: 9860.875090270223
+[2021-11-06 00:33:49/968] hammersir waiting for the next battle in 0.1643479181711704  minutes at  2021/11/6 上午12:34:01
+[2021-11-06 00:33:59/835] Recover Status:  0
+[2021-11-06 00:33:59/835] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 00:33:59/836] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 00:33:59/836] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 00:33:59/836] 2021/11/6 上午12:33:59 Battle Again...
+[2021-11-06 00:33:59/836] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 00:33:59/852] [1m[97m[45mYour current Energy Capture Rate is 74%[49m[39m[22m
+[2021-11-06 00:33:59/852] getting user quest info from splinterlands API...
+[2021-11-06 00:34:00/729] getting user cards collection from splinterlands API...
+[2021-11-06 00:34:01/620] cards retrieved
+[2021-11-06 00:34:01/620] hammersir  deck size: 128
+[2021-11-06 00:34:01/620] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 2 }
+[2021-11-06 00:34:01/630] no quest reward to be claimed waiting for the battle...
+[2021-11-06 00:34:06/630] waiting for battle button...
+[2021-11-06 00:34:06/634] Battle button clicked
+[2021-11-06 00:34:11/636] waiting for an opponent...
+[2021-11-06 00:34:11/640] start the match
+[2021-11-06 00:34:23/647] check battles based on mana: 12
+[2021-11-06 00:34:23/647] INPUT:  12 Equalizer [ 'fire', 'life', 'death' ] 128
+[2021-11-06 00:34:23/647] Using Backup  72285
+[2021-11-06 00:34:23/653] Possible Teams based on your cards:  6
+[2021-11-06 00:34:23/653] quest custom option set as: false
+[2021-11-06 00:34:23/653] BESTSUMMONER:  167
+[2021-11-06 00:34:23/653] BEST SUMMONER and TANK {
+  bestSummoner: '167',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '8',
+  bestBackline: '3',
+  backlineWins: 2,
+  bestSecondBackline: '158',
+  secondBacklineWins: 2,
+  bestThirdBackline: '',
+  thirdBacklineWins: 2
+}
+[2021-11-06 00:34:23/654] BEST TEAM [
+  167, 8,      3,
+  158, '',     '',
+  '',  'fire', '',
+  ''
+]
+[2021-11-06 00:34:23/654] Dont play for the quest, and play this: [
+  '167',
+  [
+    167, 8,      3,
+    158, '',     '',
+    '',  'fire', '',
+    ''
+  ]
+]
+[2021-11-06 00:34:33/767] play:  8
+[2021-11-06 00:34:34/768] play:  3
+[2021-11-06 00:34:35/769] play:  158
+[2021-11-06 00:34:36/770] play:  
+[2021-11-06 00:34:36/770] nocard  4
+[2021-11-06 00:34:37/771] play:  
+[2021-11-06 00:34:37/771] nocard  5
+[2021-11-06 00:34:38/772] play:  
+[2021-11-06 00:34:38/772] nocard  6
+[2021-11-06 00:34:50/260] btnRumble visible
+[2021-11-06 00:34:55/267] btnRumble clicked
+[2021-11-06 00:34:55/279] btnSkip visible
+[2021-11-06 00:34:55/297] btnSkip clicked
+[2021-11-06 00:35:01/318] [31mYou lost[39m
+[2021-11-06 00:35:11/335] Clicking element .btn--done
+[2021-11-06 00:35:21/441] Clicking element #menu_item_battle
+[2021-11-06 00:35:21/559] Total Battles: 3[32m - Win Total: 2[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 1[39m
+[2021-11-06 00:35:21/559] [32mTotal Earned: 2.1310000000000002 DEC[39m
+[2021-11-06 00:35:21/559] Closing battle 2021/11/6 上午12:35:21
+[2021-11-06 00:35:26/559] seleep time ms: 6630.31780995732
+[2021-11-06 00:35:26/559] hammersir waiting for the next battle in 0.11050529683262199  minutes at  2021/11/6 上午12:35:38
+[2021-11-06 00:35:33/191] Recover Status:  0
+[2021-11-06 00:35:33/191] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 00:35:33/191] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 00:35:33/191] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 00:35:33/192] 2021/11/6 上午12:35:33 Battle Again...
+[2021-11-06 00:35:33/192] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 00:35:33/208] [1m[97m[45mYour current Energy Capture Rate is 74%[49m[39m[22m
+[2021-11-06 00:35:33/210] getting user quest info from splinterlands API...
+[2021-11-06 00:35:34/77] getting user cards collection from splinterlands API...
+[2021-11-06 00:35:34/956] cards retrieved
+[2021-11-06 00:35:34/956] hammersir  deck size: 128
+[2021-11-06 00:35:34/956] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 2 }
+[2021-11-06 00:35:34/968] no quest reward to be claimed waiting for the battle...
+[2021-11-06 00:35:39/968] waiting for battle button...
+[2021-11-06 00:35:39/972] Battle button clicked
+[2021-11-06 00:35:44/977] waiting for an opponent...
+[2021-11-06 00:35:46/154] start the match
+[2021-11-06 00:35:58/167] check battles based on mana: 24
+[2021-11-06 00:35:58/167] INPUT:  24 Stampede [ 'fire', 'life', 'dragon' ] 128
+[2021-11-06 00:35:58/168] Using Backup  72285
+[2021-11-06 00:35:58/173] check battles based on mana: 23
+[2021-11-06 00:35:58/173] INPUT:  23 Stampede [ 'fire', 'life', 'dragon' ] 128
+[2021-11-06 00:35:58/174] Using Backup  72285
+[2021-11-06 00:35:58/180] check battles based on mana: 22
+[2021-11-06 00:35:58/180] INPUT:  22 Stampede [ 'fire', 'life', 'dragon' ] 128
+[2021-11-06 00:35:58/180] Using Backup  72285
+[2021-11-06 00:35:58/184] check battles based on mana: 21
+[2021-11-06 00:35:58/185] INPUT:  21 Stampede [ 'fire', 'life', 'dragon' ] 128
+[2021-11-06 00:35:58/185] Using Backup  72285
+[2021-11-06 00:35:58/190] Possible Teams based on your cards:  2
+[2021-11-06 00:35:58/190] quest custom option set as: false
+[2021-11-06 00:35:58/190] BESTSUMMONER:  156
+[2021-11-06 00:35:58/190] BEST SUMMONER and TANK {
+  bestSummoner: '156',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '152',
+  bestBackline: '34',
+  backlineWins: 2,
+  bestSecondBackline: '35',
+  secondBacklineWins: 2,
+  bestThirdBackline: '39',
+  thirdBacklineWins: 2,
+  bestForthBackline: '',
+  forthBacklineWins: 2
+}
+[2021-11-06 00:35:58/190] BEST TEAM [
+  156, 152,    34,
+  35,  39,     '',
+  '',  'life', '',
+  ''
+]
+[2021-11-06 00:35:58/191] Dont play for the quest, and play this: [
+  '156',
+  [
+    156, 152,    34,
+    35,  39,     '',
+    '',  'life', '',
+    ''
+  ]
+]
+[2021-11-06 00:36:08/312] play:  152
+[2021-11-06 00:36:09/313] play:  34
+[2021-11-06 00:36:10/314] play:  35
+[2021-11-06 00:36:11/315] play:  39
+[2021-11-06 00:36:12/316] play:  
+[2021-11-06 00:36:12/317] nocard  5
+[2021-11-06 00:36:13/318] play:  
+[2021-11-06 00:36:13/318] nocard  6
+[2021-11-06 00:36:24/842] btnRumble visible
+[2021-11-06 00:36:29/852] btnRumble clicked
+[2021-11-06 00:36:29/856] btnSkip visible
+[2021-11-06 00:36:29/879] btnSkip clicked
+[2021-11-06 00:36:35/892] [31mYou lost[39m
+[2021-11-06 00:36:45/915] Clicking element .btn--done
+[2021-11-06 00:36:56/39] Clicking element #menu_item_battle
+[2021-11-06 00:36:56/205] Total Battles: 4[32m - Win Total: 2[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 2[39m
+[2021-11-06 00:36:56/206] [32mTotal Earned: 2.1310000000000002 DEC[39m
+[2021-11-06 00:36:56/206] Closing battle 2021/11/6 上午12:36:56
+[2021-11-06 00:37:01/207] seleep time ms: 6354.030627583446
+[2021-11-06 00:37:01/207] hammersir waiting for the next battle in 0.10590051045972411  minutes at  2021/11/6 上午12:37:13
+[2021-11-06 00:37:07/567] Recover Status:  0
+[2021-11-06 00:37:07/568] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 00:37:07/568] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 00:37:07/568] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 00:37:07/568] 2021/11/6 上午12:37:07 Battle Again...
+[2021-11-06 00:37:07/568] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 00:37:07/585] [1m[97m[45mYour current Energy Capture Rate is 74%[49m[39m[22m
+[2021-11-06 00:37:07/586] getting user quest info from splinterlands API...
+[2021-11-06 00:37:08/456] getting user cards collection from splinterlands API...
+[2021-11-06 00:37:09/351] cards retrieved
+[2021-11-06 00:37:09/351] hammersir  deck size: 128
+[2021-11-06 00:37:09/351] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 2 }
+[2021-11-06 00:37:09/374] no quest reward to be claimed waiting for the battle...
+[2021-11-06 00:37:14/374] waiting for battle button...
+[2021-11-06 00:37:14/378] Battle button clicked
+[2021-11-06 00:37:19/379] waiting for an opponent...
+[2021-11-06 00:37:19/990] start the match
+[2021-11-06 00:37:32/5] check battles based on mana: 22
+[2021-11-06 00:37:32/6] INPUT:  22 Stampede [ 'fire', 'water', 'earth', 'life', 'death', 'dragon' ] 128
+[2021-11-06 00:37:32/6] Using Backup  72285
+[2021-11-06 00:37:32/9] Possible Teams based on your cards:  8
+[2021-11-06 00:37:32/10] quest custom option set as: false
+[2021-11-06 00:37:32/10] BESTSUMMONER:  16
+[2021-11-06 00:37:32/10] BEST SUMMONER and TANK {
+  bestSummoner: '16',
+  summonerWins: 6,
+  tankWins: 4,
+  bestTank: '174',
+  bestBackline: '17',
+  backlineWins: 4,
+  bestSecondBackline: '338',
+  secondBacklineWins: 4,
+  bestThirdBackline: '172',
+  thirdBacklineWins: 4,
+  bestForthBackline: '169',
+  forthBacklineWins: 4
+}
+[2021-11-06 00:37:32/10] BEST TEAM [
+  16,  174,     17,
+  338, 172,     169,
+  '',  'water', '',
+  ''
+]
+[2021-11-06 00:37:32/10] Dont play for the quest, and play this: [
+  '16',
+  [
+    16,  174,     17,
+    338, 172,     169,
+    '',  'water', '',
+    ''
+  ]
+]
+[2021-11-06 00:37:42/123] play:  174
+[2021-11-06 00:37:43/124] play:  17
+[2021-11-06 00:37:44/125] play:  338
+[2021-11-06 00:37:45/126] play:  172
+[2021-11-06 00:37:46/127] play:  169
+[2021-11-06 00:37:47/128] play:  
+[2021-11-06 00:37:47/128] nocard  6
+[2021-11-06 00:37:58/139] btnRumble visible
+[2021-11-06 00:38:03/148] btnRumble clicked
+[2021-11-06 00:38:03/160] btnSkip visible
+[2021-11-06 00:38:03/176] btnSkip clicked
+[2021-11-06 00:38:23/182] Could not find winner - draw?
+[2021-11-06 00:38:33/195] Clicking element .btn--done
+[2021-11-06 09:31:30/225] START  hammersir 2021/11/6 上午9:31:30
+[2021-11-06 09:31:30/700] Recover Status:  0
+[2021-11-06 09:31:30/702] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:31:30/702] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:31:30/702] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:31:30/703] 2021/11/6 上午9:31:30 opening browser...
+[2021-11-06 09:31:45/59] Login attempt...
+[2021-11-06 09:32:04/461] logged in!
+[2021-11-06 09:32:08/251] current url https://splinterlands.com/?p=about-player
+[2021-11-06 09:32:08/251] goto  url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:32:16/947] check if any modal needs to be closed...
+[2021-11-06 09:32:20/951] No element .close to be closed
+[2021-11-06 09:32:21/951] No element .modal-close-new to be closed
+[2021-11-06 09:32:25/954] No element .modal-close to be closed
+[2021-11-06 09:32:25/954] check if any modal needs to be closed...
+[2021-11-06 09:32:29/958] No element .close to be closed
+[2021-11-06 09:32:30/959] No element .modal-close-new to be closed
+[2021-11-06 09:32:34/963] No element .modal-close to be closed
+[2021-11-06 09:32:34/981] [1m[97m[45mYour current Energy Capture Rate is 76%[49m[39m[22m
+[2021-11-06 09:32:34/981] getting user quest info from splinterlands API...
+[2021-11-06 09:32:36/248] getting user cards collection from splinterlands API...
+[2021-11-06 09:32:37/183] cards retrieved
+[2021-11-06 09:32:37/183] hammersir  deck size: 128
+[2021-11-06 09:32:37/183] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 2 }
+[2021-11-06 09:32:37/200] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:32:42/201] waiting for battle button...
+[2021-11-06 09:32:42/213] Battle button clicked
+[2021-11-06 09:32:47/214] waiting for an opponent...
+[2021-11-06 09:32:48/576] start the match
+[2021-11-06 09:33:00/595] check battles based on mana: 14
+[2021-11-06 09:33:00/596] INPUT:  14 Melee Mayhem [ 'fire', 'water', 'earth', 'dragon' ] 128
+[2021-11-06 09:33:00/597] Using Backup  72285
+[2021-11-06 09:33:00/605] Possible Teams based on your cards:  3
+[2021-11-06 09:33:00/606] quest custom option set as: false
+[2021-11-06 09:33:00/607] BESTSUMMONER:  5
+[2021-11-06 09:33:00/607] BEST SUMMONER and TANK {
+  bestSummoner: '5',
+  summonerWins: 3,
+  tankWins: 3,
+  bestTank: '162',
+  bestBackline: '159',
+  backlineWins: 2,
+  bestSecondBackline: '',
+  secondBacklineWins: 2
+}
+[2021-11-06 09:33:00/607] BEST TEAM [
+  5,  162,    159,
+  '', '',     '',
+  '', 'fire', '',
+  ''
+]
+[2021-11-06 09:33:00/608] Dont play for the quest, and play this: [
+  '5',
+  [
+    5,  162,    159,
+    '', '',     '',
+    '', 'fire', '',
+    ''
+  ]
+]
+[2021-11-06 09:33:10/731] play:  162
+[2021-11-06 09:33:11/732] play:  159
+[2021-11-06 09:33:12/733] play:  
+[2021-11-06 09:33:12/733] nocard  3
+[2021-11-06 09:33:13/735] play:  
+[2021-11-06 09:33:13/735] nocard  4
+[2021-11-06 09:33:14/737] play:  
+[2021-11-06 09:33:14/737] nocard  5
+[2021-11-06 09:33:15/739] play:  
+[2021-11-06 09:33:15/739] nocard  6
+[2021-11-06 09:33:32/58] btnRumble visible
+[2021-11-06 09:33:37/81] btnRumble clicked
+[2021-11-06 09:33:37/90] btnSkip visible
+[2021-11-06 09:33:37/119] btnSkip clicked
+[2021-11-06 09:33:43/328] [31mYou lost[39m
+[2021-11-06 09:33:53/346] Clicking element .btn--done
+[2021-11-06 09:34:03/499] Clicking element #menu_item_battle
+[2021-11-06 09:34:03/661] Total Battles: 1[32m - Win Total: 0[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 1[39m
+[2021-11-06 09:34:03/661] [32mTotal Earned: 0 DEC[39m
+[2021-11-06 09:34:03/661] Closing battle 2021/11/6 上午9:34:03
+[2021-11-06 09:34:08/662] seleep time ms: 15951.263986787952
+[2021-11-06 09:34:08/663] hammersir waiting for the next battle in 0.2658543997797992  minutes at  2021/11/6 上午9:34:32
+[2021-11-06 09:34:24/627] Recover Status:  0
+[2021-11-06 09:34:24/628] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:34:24/628] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:34:24/628] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:34:24/629] 2021/11/6 上午9:34:24 Battle Again...
+[2021-11-06 09:34:24/629] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:34:24/661] [1m[97m[45mYour current Energy Capture Rate is 76%[49m[39m[22m
+[2021-11-06 09:34:24/661] getting user quest info from splinterlands API...
+[2021-11-06 09:34:25/643] getting user cards collection from splinterlands API...
+[2021-11-06 09:34:26/600] cards retrieved
+[2021-11-06 09:34:26/601] hammersir  deck size: 128
+[2021-11-06 09:34:26/601] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 2 }
+[2021-11-06 09:34:26/629] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:34:31/630] waiting for battle button...
+[2021-11-06 09:34:31/640] Battle button clicked
+[2021-11-06 09:34:36/642] waiting for an opponent...
+[2021-11-06 09:34:37/808] start the match
+[2021-11-06 09:34:49/830] check battles based on mana: 18
+[2021-11-06 09:34:49/830] INPUT:  18 Explosive Weaponry [ 'fire', 'earth', 'death' ] 128
+[2021-11-06 09:34:49/830] Using Backup  72285
+[2021-11-06 09:34:49/837] Possible Teams based on your cards:  2
+[2021-11-06 09:34:49/837] quest custom option set as: false
+[2021-11-06 09:34:49/837] BESTSUMMONER:  49
+[2021-11-06 09:34:49/838] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 1,
+  tankWins: 1,
+  bestTank: '50',
+  bestBackline: '136',
+  backlineWins: 1,
+  bestSecondBackline: '52',
+  secondBacklineWins: 1,
+  bestThirdBackline: '141',
+  thirdBacklineWins: 1,
+  bestForthBackline: '51',
+  forthBacklineWins: 1
+}
+[2021-11-06 09:34:49/838] BEST TEAM [
+  49, 50,      136,
+  52, 141,     51,
+  '', 'death', '',
+  ''
+]
+[2021-11-06 09:34:49/839] Dont play for the quest, and play this: [
+  '49',
+  [
+    49, 50,      136,
+    52, 141,     51,
+    '', 'death', '',
+    ''
+  ]
+]
+[2021-11-06 09:34:59/952] play:  50
+[2021-11-06 09:35:00/954] play:  136
+[2021-11-06 09:35:01/956] play:  52
+[2021-11-06 09:35:02/957] play:  141
+[2021-11-06 09:35:03/958] play:  51
+[2021-11-06 09:35:04/960] play:  
+[2021-11-06 09:35:04/960] nocard  6
+[2021-11-06 09:35:15/972] btnRumble visible
+[2021-11-06 09:35:21/2] btnRumble clicked
+[2021-11-06 09:35:21/6] btnSkip visible
+[2021-11-06 09:35:21/30] btnSkip clicked
+[2021-11-06 09:35:27/52] [32mYou won! Reward: +1.134 DEC[39m
+[2021-11-06 09:35:37/62] Clicking element .btn--done
+[2021-11-06 09:35:47/196] Clicking element #menu_item_battle
+[2021-11-06 09:35:47/333] Total Battles: 2[32m - Win Total: 1[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 1[39m
+[2021-11-06 09:35:47/333] [32mTotal Earned: 1.134 DEC[39m
+[2021-11-06 09:35:47/333] Closing battle 2021/11/6 上午9:35:47
+[2021-11-06 09:35:52/338] seleep time ms: 18984.532914295167
+[2021-11-06 09:35:52/339] hammersir waiting for the next battle in 0.31640888190491945  minutes at  2021/11/6 上午9:36:16
+[2021-11-06 09:36:11/325] Recover Status:  0
+[2021-11-06 09:36:11/326] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:36:11/326] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:36:11/326] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:36:11/326] 2021/11/6 上午9:36:11 Battle Again...
+[2021-11-06 09:36:11/326] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:36:11/341] [1m[97m[45mYour current Energy Capture Rate is 76%[49m[39m[22m
+[2021-11-06 09:36:11/341] getting user quest info from splinterlands API...
+[2021-11-06 09:36:12/261] getting user cards collection from splinterlands API...
+[2021-11-06 09:36:13/291] cards retrieved
+[2021-11-06 09:36:13/292] hammersir  deck size: 128
+[2021-11-06 09:36:13/292] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 2 }
+[2021-11-06 09:36:13/310] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:36:18/311] waiting for battle button...
+[2021-11-06 09:36:18/321] Battle button clicked
+[2021-11-06 09:36:23/321] waiting for an opponent...
+[2021-11-06 09:36:23/347] start the match
+[2021-11-06 09:36:35/365] check battles based on mana: 16
+[2021-11-06 09:36:35/365] INPUT:  16 Reverse Speed [ 'fire', 'earth' ] 128
+[2021-11-06 09:36:35/366] Using Backup  72285
+[2021-11-06 09:36:35/369] check battles based on mana: 15
+[2021-11-06 09:36:35/370] INPUT:  15 Reverse Speed [ 'fire', 'earth' ] 128
+[2021-11-06 09:36:35/370] Using Backup  72285
+[2021-11-06 09:36:35/374] Possible Teams based on your cards:  9
+[2021-11-06 09:36:35/374] quest custom option set as: false
+[2021-11-06 09:36:35/374] BESTSUMMONER:  5
+[2021-11-06 09:36:35/374] BEST SUMMONER and TANK {
+  bestSummoner: '5',
+  summonerWins: 9,
+  tankWins: 9,
+  bestTank: '162',
+  bestBackline: '158',
+  backlineWins: 6,
+  bestSecondBackline: '3',
+  secondBacklineWins: 6,
+  bestThirdBackline: '',
+  thirdBacklineWins: 6
+}
+[2021-11-06 09:36:35/375] BEST TEAM [
+  5,  162,    158,
+  3,  '',     '',
+  '', 'fire', '',
+  ''
+]
+[2021-11-06 09:36:35/375] Dont play for the quest, and play this: [
+  '5',
+  [
+    5,  162,    158,
+    3,  '',     '',
+    '', 'fire', '',
+    ''
+  ]
+]
+[2021-11-06 09:36:45/501] play:  162
+[2021-11-06 09:36:46/502] play:  158
+[2021-11-06 09:36:47/503] play:  3
+[2021-11-06 09:36:48/505] play:  
+[2021-11-06 09:36:48/505] nocard  4
+[2021-11-06 09:36:49/506] play:  
+[2021-11-06 09:36:49/507] nocard  5
+[2021-11-06 09:36:50/508] play:  
+[2021-11-06 09:36:50/509] nocard  6
+[2021-11-06 09:37:02/779] btnRumble visible
+[2021-11-06 09:37:07/799] btnRumble clicked
+[2021-11-06 09:37:07/804] btnSkip visible
+[2021-11-06 09:37:07/837] btnSkip clicked
+[2021-11-06 09:37:13/866] [32mYou won! Reward: +1.18 DEC[39m
+[2021-11-06 09:37:23/874] Clicking element .btn--done
+[2021-11-06 09:37:34/23] Clicking element #menu_item_battle
+[2021-11-06 09:37:34/194] Total Battles: 3[32m - Win Total: 2[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 1[39m
+[2021-11-06 09:37:34/194] [32mTotal Earned: 2.314 DEC[39m
+[2021-11-06 09:37:34/194] Closing battle 2021/11/6 上午9:37:34
+[2021-11-06 09:37:39/198] seleep time ms: 15566.454723667746
+[2021-11-06 09:37:39/199] hammersir waiting for the next battle in 0.2594409120611291  minutes at  2021/11/6 上午9:38:03
+[2021-11-06 09:37:54/768] Recover Status:  0
+[2021-11-06 09:37:54/768] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:37:54/768] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:37:54/768] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:37:54/768] 2021/11/6 上午9:37:54 Battle Again...
+[2021-11-06 09:37:54/769] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:37:54/790] [1m[97m[45mYour current Energy Capture Rate is 76%[49m[39m[22m
+[2021-11-06 09:37:54/791] getting user quest info from splinterlands API...
+[2021-11-06 09:37:55/912] getting user cards collection from splinterlands API...
+[2021-11-06 09:37:56/860] cards retrieved
+[2021-11-06 09:37:56/860] hammersir  deck size: 128
+[2021-11-06 09:37:56/860] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 3 }
+[2021-11-06 09:37:56/890] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:38:01/891] waiting for battle button...
+[2021-11-06 09:38:01/901] Battle button clicked
+[2021-11-06 09:38:06/905] waiting for an opponent...
+[2021-11-06 09:38:08/6] start the match
+[2021-11-06 09:38:20/25] check battles based on mana: 19
+[2021-11-06 09:38:20/25] INPUT:  19 Equalizer [ 'fire', 'earth', 'life', 'death', 'dragon' ] 128
+[2021-11-06 09:38:20/26] Using Backup  72285
+[2021-11-06 09:38:20/30] Possible Teams based on your cards:  7
+[2021-11-06 09:38:20/30] quest custom option set as: false
+[2021-11-06 09:38:20/30] BESTSUMMONER:  156
+[2021-11-06 09:38:20/31] BEST SUMMONER and TANK {
+  bestSummoner: '156',
+  summonerWins: 3,
+  tankWins: 3,
+  bestTank: '64',
+  bestBackline: '149',
+  backlineWins: 3,
+  bestSecondBackline: '35',
+  secondBacklineWins: 3,
+  bestThirdBackline: '34',
+  thirdBacklineWins: 3,
+  bestForthBackline: '62',
+  forthBacklineWins: 3
+}
+[2021-11-06 09:38:20/31] BEST TEAM [
+  156, 64,     149,
+  35,  34,     62,
+  66,  'life', '',
+  ''
+]
+[2021-11-06 09:38:20/32] Dont play for the quest, and play this: [
+  '156',
+  [
+    156, 64,     149,
+    35,  34,     62,
+    66,  'life', '',
+    ''
+  ]
+]
+[2021-11-06 09:38:30/151] play:  64
+[2021-11-06 09:38:31/153] play:  149
+[2021-11-06 09:38:32/155] play:  35
+[2021-11-06 09:38:33/156] play:  34
+[2021-11-06 09:38:34/158] play:  62
+[2021-11-06 09:38:35/160] play:  66
+[2021-11-06 09:39:33/752] btnRumble visible
+[2021-11-06 09:39:38/763] btnRumble clicked
+[2021-11-06 09:39:38/777] btnSkip visible
+[2021-11-06 09:39:38/801] btnSkip clicked
+[2021-11-06 09:39:44/826] [31mYou lost[39m
+[2021-11-06 09:39:54/858] Clicking element .btn--done
+[2021-11-06 09:40:04/973] Clicking element #menu_item_battle
+[2021-11-06 09:40:05/90] Total Battles: 4[32m - Win Total: 2[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 2[39m
+[2021-11-06 09:40:05/90] [32mTotal Earned: 2.314 DEC[39m
+[2021-11-06 09:40:05/90] Closing battle 2021/11/6 上午9:40:05
+[2021-11-06 09:40:10/92] seleep time ms: 18567.377088930803
+[2021-11-06 09:40:10/93] hammersir waiting for the next battle in 0.3094562848155134  minutes at  2021/11/6 上午9:40:34
+[2021-11-06 09:40:28/666] Recover Status:  0
+[2021-11-06 09:40:28/667] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:40:28/667] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:40:28/667] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:40:28/667] 2021/11/6 上午9:40:28 Battle Again...
+[2021-11-06 09:40:28/667] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:40:28/686] [1m[97m[45mYour current Energy Capture Rate is 76%[49m[39m[22m
+[2021-11-06 09:40:28/687] getting user quest info from splinterlands API...
+[2021-11-06 09:40:29/748] getting user cards collection from splinterlands API...
+[2021-11-06 09:40:30/769] cards retrieved
+[2021-11-06 09:40:30/769] hammersir  deck size: 128
+[2021-11-06 09:40:30/769] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 3 }
+[2021-11-06 09:40:30/781] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:40:35/782] waiting for battle button...
+[2021-11-06 09:40:35/794] Battle button clicked
+[2021-11-06 09:40:40/795] waiting for an opponent...
+[2021-11-06 09:40:40/805] start the match
+[2021-11-06 09:40:52/822] check battles based on mana: 25
+[2021-11-06 09:40:52/823] INPUT:  25 Little League [ 'fire', 'water', 'earth', 'dragon' ] 128
+[2021-11-06 09:40:52/823] Using Backup  72285
+[2021-11-06 09:40:52/827] Possible Teams based on your cards:  11
+[2021-11-06 09:40:52/827] quest custom option set as: false
+[2021-11-06 09:40:52/827] BESTSUMMONER:  5
+[2021-11-06 09:40:52/827] BEST SUMMONER and TANK {
+  bestSummoner: '5',
+  summonerWins: 9,
+  tankWins: 9,
+  bestTank: '8',
+  bestBackline: '1',
+  backlineWins: 6,
+  bestSecondBackline: '3',
+  secondBacklineWins: 6,
+  bestThirdBackline: '163',
+  thirdBacklineWins: 4,
+  bestForthBackline: '158',
+  forthBacklineWins: 4
+}
+[2021-11-06 09:40:52/827] BEST TEAM [
+  5,  8,      1,
+  3,  163,    158,
+  63, 'fire', '',
+  ''
+]
+[2021-11-06 09:40:52/827] Dont play for the quest, and play this: [
+  '5',
+  [
+    5,  8,      1,
+    3,  163,    158,
+    63, 'fire', '',
+    ''
+  ]
+]
+[2021-11-06 09:41:02/926] play:  8
+[2021-11-06 09:41:03/927] play:  1
+[2021-11-06 09:41:04/929] play:  3
+[2021-11-06 09:41:05/930] play:  163
+[2021-11-06 09:41:06/932] play:  158
+[2021-11-06 09:41:07/933] play:  63
+[2021-11-06 09:41:18/941] btnRumble visible
+[2021-11-06 09:41:23/959] btnRumble clicked
+[2021-11-06 09:41:23/975] btnSkip visible
+[2021-11-06 09:41:23/998] btnSkip clicked
+[2021-11-06 09:41:30/18] [32mYou won! Reward: +1.101 DEC[39m
+[2021-11-06 09:41:40/34] Clicking element .btn--done
+[2021-11-06 09:41:50/170] Clicking element #menu_item_battle
+[2021-11-06 09:41:50/289] Total Battles: 5[32m - Win Total: 3[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 2[39m
+[2021-11-06 09:41:50/290] [32mTotal Earned: 3.415 DEC[39m
+[2021-11-06 09:41:50/290] Closing battle 2021/11/6 上午9:41:50
+[2021-11-06 09:41:55/295] seleep time ms: 15059.359796129618
+[2021-11-06 09:41:55/296] hammersir waiting for the next battle in 0.2509893299354936  minutes at  2021/11/6 上午9:42:19
+[2021-11-06 09:42:10/356] Recover Status:  0
+[2021-11-06 09:42:10/356] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:42:10/356] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:42:10/356] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:42:10/356] 2021/11/6 上午9:42:10 Battle Again...
+[2021-11-06 09:42:10/356] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:42:10/373] [1m[97m[45mYour current Energy Capture Rate is 76%[49m[39m[22m
+[2021-11-06 09:42:10/373] getting user quest info from splinterlands API...
+[2021-11-06 09:42:11/551] getting user cards collection from splinterlands API...
+[2021-11-06 09:42:12/521] cards retrieved
+[2021-11-06 09:42:12/521] hammersir  deck size: 128
+[2021-11-06 09:42:12/521] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 4 }
+[2021-11-06 09:42:12/545] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:42:17/545] waiting for battle button...
+[2021-11-06 09:42:17/554] Battle button clicked
+[2021-11-06 09:42:22/558] waiting for an opponent...
+[2021-11-06 09:42:23/53] start the match
+[2021-11-06 09:42:35/73] check battles based on mana: 23
+[2021-11-06 09:42:35/74] INPUT:  23 Fog of War [ 'fire', 'earth', 'death', 'dragon' ] 128
+[2021-11-06 09:42:35/74] Using Backup  72285
+[2021-11-06 09:42:35/79] Possible Teams based on your cards:  2
+[2021-11-06 09:42:35/79] quest custom option set as: false
+[2021-11-06 09:42:35/79] BESTSUMMONER:  49
+[2021-11-06 09:42:35/80] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '50',
+  bestBackline: '52',
+  backlineWins: 2,
+  bestSecondBackline: '141',
+  secondBacklineWins: 2,
+  bestThirdBackline: '51',
+  thirdBacklineWins: 2,
+  bestForthBackline: '138',
+  forthBacklineWins: 2
+}
+[2021-11-06 09:42:35/80] BEST TEAM [
+  49,  50,      52,
+  141, 51,      138,
+  139, 'death', '',
+  ''
+]
+[2021-11-06 09:42:35/80] Dont play for the quest, and play this: [
+  '49',
+  [
+    49,  50,      52,
+    141, 51,      138,
+    139, 'death', '',
+    ''
+  ]
+]
+[2021-11-06 09:42:45/205] play:  50
+[2021-11-06 09:42:46/207] play:  52
+[2021-11-06 09:42:47/208] play:  141
+[2021-11-06 09:42:48/210] play:  51
+[2021-11-06 09:42:49/212] play:  138
+[2021-11-06 09:42:50/213] play:  139
+[2021-11-06 09:43:17/801] btnRumble visible
+[2021-11-06 09:43:22/823] btnRumble clicked
+[2021-11-06 09:43:22/833] btnSkip visible
+[2021-11-06 09:43:22/863] btnSkip clicked
+[2021-11-06 09:43:28/884] [32mYou won! Reward: +1.145 DEC[39m
+[2021-11-06 09:43:38/906] Clicking element .btn--done
+[2021-11-06 09:43:49/43] Clicking element #menu_item_battle
+[2021-11-06 09:43:49/162] Total Battles: 6[32m - Win Total: 4[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 2[39m
+[2021-11-06 09:43:49/163] [32mTotal Earned: 4.5600000000000005 DEC[39m
+[2021-11-06 09:43:49/163] Closing battle 2021/11/6 上午9:43:49
+[2021-11-06 09:43:54/166] seleep time ms: 23954.192442948577
+[2021-11-06 09:43:54/167] hammersir waiting for the next battle in 0.39923654071580966  minutes at  2021/11/6 上午9:44:18
+[2021-11-06 09:44:18/126] Recover Status:  0
+[2021-11-06 09:44:18/127] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:44:18/127] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:44:18/127] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:44:18/127] 2021/11/6 上午9:44:18 Battle Again...
+[2021-11-06 09:44:18/127] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:44:18/141] [1m[97m[45mYour current Energy Capture Rate is 76%[49m[39m[22m
+[2021-11-06 09:44:18/141] getting user quest info from splinterlands API...
+[2021-11-06 09:44:19/243] getting user cards collection from splinterlands API...
+[2021-11-06 09:44:20/148] cards retrieved
+[2021-11-06 09:44:20/148] hammersir  deck size: 128
+[2021-11-06 09:44:20/149] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 4 }
+[2021-11-06 09:44:20/190] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:44:25/190] waiting for battle button...
+[2021-11-06 09:44:25/197] Battle button clicked
+[2021-11-06 09:44:30/198] waiting for an opponent...
+[2021-11-06 09:44:30/210] start the match
+[2021-11-06 09:44:42/227] check battles based on mana: 20
+[2021-11-06 09:44:42/227] INPUT:  20 Earthquake [ 'fire', 'water', 'death' ] 128
+[2021-11-06 09:44:42/228] Using Backup  72285
+[2021-11-06 09:44:42/231] Possible Teams based on your cards:  3
+[2021-11-06 09:44:42/231] quest custom option set as: false
+[2021-11-06 09:44:42/231] BESTSUMMONER:  16
+[2021-11-06 09:44:42/232] BEST SUMMONER and TANK {
+  bestSummoner: '16',
+  summonerWins: 3,
+  tankWins: 2,
+  bestTank: '13',
+  bestBackline: '172',
+  backlineWins: 2,
+  bestSecondBackline: '66',
+  secondBacklineWins: 2,
+  bestThirdBackline: '17',
+  thirdBacklineWins: 2,
+  bestForthBackline: '194',
+  forthBacklineWins: 2
+}
+[2021-11-06 09:44:42/232] BEST TEAM [
+  16, 13,      172,
+  66, 17,      194,
+  '', 'water', '',
+  ''
+]
+[2021-11-06 09:44:42/232] Dont play for the quest, and play this: [
+  '16',
+  [
+    16, 13,      172,
+    66, 17,      194,
+    '', 'water', '',
+    ''
+  ]
+]
+[2021-11-06 09:44:52/355] play:  13
+[2021-11-06 09:44:53/356] play:  172
+[2021-11-06 09:44:54/357] play:  66
+[2021-11-06 09:44:55/358] play:  17
+[2021-11-06 09:44:56/358] play:  194
+[2021-11-06 09:44:57/360] play:  
+[2021-11-06 09:44:57/360] nocard  6
+[2021-11-06 09:45:08/383] btnRumble visible
+[2021-11-06 09:45:13/414] btnRumble clicked
+[2021-11-06 09:45:13/426] btnSkip visible
+[2021-11-06 09:45:13/447] btnSkip clicked
+[2021-11-06 09:45:19/480] [32mYou won! Reward: +1.188 DEC[39m
+[2021-11-06 09:45:29/502] Clicking element .btn--done
+[2021-11-06 09:45:39/619] Clicking element #menu_item_battle
+[2021-11-06 09:45:39/815] Total Battles: 7[32m - Win Total: 5[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 2[39m
+[2021-11-06 09:45:39/815] [32mTotal Earned: 5.748 DEC[39m
+[2021-11-06 09:45:39/815] Closing battle 2021/11/6 上午9:45:39
+[2021-11-06 09:45:44/818] seleep time ms: 12757.698556896155
+[2021-11-06 09:45:44/819] hammersir waiting for the next battle in 0.2126283092816026  minutes at  2021/11/6 上午9:46:08
+[2021-11-06 09:45:57/586] Recover Status:  0
+[2021-11-06 09:45:57/587] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:45:57/587] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:45:57/587] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:45:57/587] 2021/11/6 上午9:45:57 Battle Again...
+[2021-11-06 09:45:57/587] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:45:57/600] [1m[97m[45mYour current Energy Capture Rate is 76%[49m[39m[22m
+[2021-11-06 09:45:57/600] getting user quest info from splinterlands API...
+[2021-11-06 09:45:58/630] getting user cards collection from splinterlands API...
+[2021-11-06 09:45:59/841] cards retrieved
+[2021-11-06 09:45:59/841] hammersir  deck size: 128
+[2021-11-06 09:45:59/842] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 4 }
+[2021-11-06 09:45:59/853] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:46:04/854] waiting for battle button...
+[2021-11-06 09:46:04/861] Battle button clicked
+[2021-11-06 09:46:09/863] waiting for an opponent...
+[2021-11-06 09:46:09/872] start the match
+[2021-11-06 09:46:21/890] check battles based on mana: 30
+[2021-11-06 09:46:21/891] INPUT:  30 Reverse Speed [ 'fire', 'water', 'dragon' ] 128
+[2021-11-06 09:46:21/891] Using Backup  72285
+[2021-11-06 09:46:21/894] check battles based on mana: 29
+[2021-11-06 09:46:21/895] INPUT:  29 Reverse Speed [ 'fire', 'water', 'dragon' ] 128
+[2021-11-06 09:46:21/895] Using Backup  72285
+[2021-11-06 09:46:21/897] Possible Teams based on your cards:  2
+[2021-11-06 09:46:21/897] quest custom option set as: false
+[2021-11-06 09:46:21/897] BESTSUMMONER:  16
+[2021-11-06 09:46:21/897] BEST SUMMONER and TANK {
+  bestSummoner: '16',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '190',
+  bestBackline: '194',
+  backlineWins: 2,
+  bestSecondBackline: '17',
+  secondBacklineWins: 2,
+  bestThirdBackline: '66',
+  thirdBacklineWins: 2,
+  bestForthBackline: '338',
+  forthBacklineWins: 2
+}
+[2021-11-06 09:46:21/897] BEST TEAM [
+  16,  190,     194,
+  17,  66,      338,
+  172, 'water', '',
+  ''
+]
+[2021-11-06 09:46:21/898] Dont play for the quest, and play this: [
+  '16',
+  [
+    16,  190,     194,
+    17,  66,      338,
+    172, 'water', '',
+    ''
+  ]
+]
+[2021-11-06 09:46:32/22] play:  190
+[2021-11-06 09:46:33/24] play:  194
+[2021-11-06 09:46:34/26] play:  17
+[2021-11-06 09:46:35/26] play:  66
+[2021-11-06 09:46:36/28] play:  338
+[2021-11-06 09:46:37/28] play:  172
+[2021-11-06 09:46:53/494] btnRumble visible
+[2021-11-06 09:46:58/519] btnRumble clicked
+[2021-11-06 09:46:58/530] btnSkip visible
+[2021-11-06 09:46:58/563] btnSkip clicked
+[2021-11-06 09:47:04/578] [31mYou lost[39m
+[2021-11-06 09:47:14/590] Clicking element .btn--done
+[2021-11-06 09:47:24/739] Clicking element #menu_item_battle
+[2021-11-06 09:47:24/884] Total Battles: 8[32m - Win Total: 5[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 3[39m
+[2021-11-06 09:47:24/884] [32mTotal Earned: 5.748 DEC[39m
+[2021-11-06 09:47:24/885] Closing battle 2021/11/6 上午9:47:24
+[2021-11-06 09:47:29/887] seleep time ms: 15925.062756484846
+[2021-11-06 09:47:29/887] hammersir waiting for the next battle in 0.2654177126080807  minutes at  2021/11/6 上午9:47:53
+[2021-11-06 09:47:45/828] Recover Status:  0
+[2021-11-06 09:47:45/829] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:47:45/829] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:47:45/829] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:47:45/829] 2021/11/6 上午9:47:45 Battle Again...
+[2021-11-06 09:47:45/829] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:47:45/850] [1m[97m[45mYour current Energy Capture Rate is 76%[49m[39m[22m
+[2021-11-06 09:47:45/850] getting user quest info from splinterlands API...
+[2021-11-06 09:47:47/22] getting user cards collection from splinterlands API...
+[2021-11-06 09:47:47/989] cards retrieved
+[2021-11-06 09:47:47/990] hammersir  deck size: 128
+[2021-11-06 09:47:47/990] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 4 }
+[2021-11-06 09:47:48/14] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:47:53/15] waiting for battle button...
+[2021-11-06 09:47:53/21] Battle button clicked
+[2021-11-06 09:47:58/21] waiting for an opponent...
+[2021-11-06 09:47:58/27] start the match
+[2021-11-06 09:48:10/42] check battles based on mana: 17
+[2021-11-06 09:48:10/43] INPUT:  17 Spreading Fury [ 'fire', 'earth', 'life', 'death', 'dragon' ] 128
+[2021-11-06 09:48:10/43] Using Backup  72285
+[2021-11-06 09:48:10/46] Possible Teams based on your cards:  2
+[2021-11-06 09:48:10/46] quest custom option set as: false
+[2021-11-06 09:48:10/47] BESTSUMMONER:  5
+[2021-11-06 09:48:10/47] BEST SUMMONER and TANK {
+  bestSummoner: '5',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '162',
+  bestBackline: '2',
+  backlineWins: 2,
+  bestSecondBackline: '3',
+  secondBacklineWins: 2,
+  bestThirdBackline: '',
+  thirdBacklineWins: 2
+}
+[2021-11-06 09:48:10/47] BEST TEAM [
+  5,  162,    2,
+  3,  '',     '',
+  '', 'fire', '',
+  ''
+]
+[2021-11-06 09:48:10/47] Dont play for the quest, and play this: [
+  '5',
+  [
+    5,  162,    2,
+    3,  '',     '',
+    '', 'fire', '',
+    ''
+  ]
+]
+[2021-11-06 09:48:20/158] play:  162
+[2021-11-06 09:48:21/159] play:  2
+[2021-11-06 09:48:22/161] play:  3
+[2021-11-06 09:48:23/162] play:  
+[2021-11-06 09:48:23/162] nocard  4
+[2021-11-06 09:48:24/163] play:  
+[2021-11-06 09:48:24/163] nocard  5
+[2021-11-06 09:48:25/164] play:  
+[2021-11-06 09:48:25/165] nocard  6
+[2021-11-06 09:48:36/188] btnRumble visible
+[2021-11-06 09:48:41/219] btnRumble clicked
+[2021-11-06 09:48:41/234] btnSkip visible
+[2021-11-06 09:48:41/258] btnSkip clicked
+[2021-11-06 09:48:47/270] [31mYou lost[39m
+[2021-11-06 09:48:57/282] Clicking element .btn--done
+[2021-11-06 09:49:07/394] Clicking element #menu_item_battle
+[2021-11-06 09:49:07/524] Total Battles: 9[32m - Win Total: 5[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 4[39m
+[2021-11-06 09:49:07/524] [32mTotal Earned: 5.748 DEC[39m
+[2021-11-06 09:49:07/525] Closing battle 2021/11/6 上午9:49:07
+[2021-11-06 09:49:12/526] seleep time ms: 20379.193700900723
+[2021-11-06 09:49:12/526] hammersir waiting for the next battle in 0.33965322834834544  minutes at  2021/11/6 上午9:49:36
+[2021-11-06 09:49:32/926] Recover Status:  0
+[2021-11-06 09:49:32/927] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:49:32/927] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:49:32/927] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:49:32/927] 2021/11/6 上午9:49:32 Battle Again...
+[2021-11-06 09:49:32/927] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:49:32/941] [1m[97m[45mYour current Energy Capture Rate is 76%[49m[39m[22m
+[2021-11-06 09:49:32/941] getting user quest info from splinterlands API...
+[2021-11-06 09:49:33/878] getting user cards collection from splinterlands API...
+[2021-11-06 09:49:34/891] cards retrieved
+[2021-11-06 09:49:34/891] hammersir  deck size: 128
+[2021-11-06 09:49:34/891] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 4 }
+[2021-11-06 09:49:34/909] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:49:39/911] waiting for battle button...
+[2021-11-06 09:49:39/918] Battle button clicked
+[2021-11-06 09:49:44/920] waiting for an opponent...
+[2021-11-06 09:49:44/928] start the match
+[2021-11-06 09:49:56/939] check battles based on mana: 17
+[2021-11-06 09:49:56/939] INPUT:  17 Little League [ 'fire', 'water', 'earth' ] 128
+[2021-11-06 09:49:56/940] Using Backup  72285
+[2021-11-06 09:49:56/943] Possible Teams based on your cards:  8
+[2021-11-06 09:49:56/944] quest custom option set as: false
+[2021-11-06 09:49:56/944] BESTSUMMONER:  167
+[2021-11-06 09:49:56/944] BEST SUMMONER and TANK {
+  bestSummoner: '167',
+  summonerWins: 4,
+  tankWins: 4,
+  bestTank: '8',
+  bestBackline: '1',
+  backlineWins: 4,
+  bestSecondBackline: '158',
+  secondBacklineWins: 4,
+  bestThirdBackline: '163',
+  thirdBacklineWins: 4,
+  bestForthBackline: '',
+  forthBacklineWins: 4
+}
+[2021-11-06 09:49:56/944] BEST TEAM [
+  167, 8,      1,
+  158, 163,    '',
+  '',  'fire', '',
+  ''
+]
+[2021-11-06 09:49:56/944] Dont play for the quest, and play this: [
+  '167',
+  [
+    167, 8,      1,
+    158, 163,    '',
+    '',  'fire', '',
+    ''
+  ]
+]
+[2021-11-06 09:50:07/46] play:  8
+[2021-11-06 09:50:08/47] play:  1
+[2021-11-06 09:50:09/48] play:  158
+[2021-11-06 09:50:10/49] play:  163
+[2021-11-06 09:50:11/50] play:  
+[2021-11-06 09:50:11/51] nocard  5
+[2021-11-06 09:50:12/52] play:  
+[2021-11-06 09:50:12/52] nocard  6
+[2021-11-06 09:50:28/140] btnRumble visible
+[2021-11-06 09:50:33/154] btnRumble clicked
+[2021-11-06 09:50:33/167] btnSkip visible
+[2021-11-06 09:50:33/189] btnSkip clicked
+[2021-11-06 09:50:39/213] [32mYou won! Reward: +1.049 DEC[39m
+[2021-11-06 09:50:49/226] Clicking element .btn--done
+[2021-11-06 09:50:59/362] Clicking element #menu_item_battle
+[2021-11-06 09:50:59/540] Total Battles: 10[32m - Win Total: 6[39m[33m - Draw? Total: 0[39m[31m - Lost Total: 4[39m
+[2021-11-06 09:50:59/540] [32mTotal Earned: 6.797000000000001 DEC[39m
+[2021-11-06 09:50:59/541] Closing battle 2021/11/6 上午9:50:59
+[2021-11-06 09:51:04/542] seleep time ms: 13805.661365229142
+[2021-11-06 09:51:04/543] hammersir waiting for the next battle in 0.23009435608715237  minutes at  2021/11/6 上午9:51:28
+[2021-11-06 09:51:18/354] Recover Status:  0
+[2021-11-06 09:51:18/355] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:51:18/355] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:51:18/355] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:51:18/355] 2021/11/6 上午9:51:18 Battle Again...
+[2021-11-06 09:51:18/355] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:51:18/370] [1m[97m[45mYour current Energy Capture Rate is 76%[49m[39m[22m
+[2021-11-06 09:51:18/370] getting user quest info from splinterlands API...
+[2021-11-06 09:51:19/294] getting user cards collection from splinterlands API...
+[2021-11-06 09:51:20/232] cards retrieved
+[2021-11-06 09:51:20/232] hammersir  deck size: 128
+[2021-11-06 09:51:20/232] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 09:51:25/412] waiting for battle button...
+[2021-11-06 09:51:25/421] Battle button clicked
+[2021-11-06 09:51:30/422] waiting for an opponent...
+[2021-11-06 09:52:20/431] [Error while waiting for battle]
+[2021-11-06 09:52:20/431] Refreshing the page and retrying to retrieve a battle
+[2021-11-06 09:52:32/341] Battle button clicked
+[2021-11-06 09:52:38/282] start the match
+[2021-11-06 09:52:50/298] check battles based on mana: 13
+[2021-11-06 09:52:50/299] INPUT:  13 Unprotected [ 'fire', 'death', 'dragon' ] 128
+[2021-11-06 09:52:50/301] Using Backup  72285
+[2021-11-06 09:52:50/304] Possible Teams based on your cards:  5
+[2021-11-06 09:52:50/304] quest custom option set as: false
+[2021-11-06 09:52:50/304] BESTSUMMONER:  49
+[2021-11-06 09:52:50/305] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 4,
+  tankWins: 4,
+  bestTank: '50',
+  bestBackline: '47',
+  backlineWins: 4,
+  bestSecondBackline: '138',
+  secondBacklineWins: 4,
+  bestThirdBackline: '',
+  thirdBacklineWins: 4
+}
+[2021-11-06 09:52:50/305] BEST TEAM [
+  49,  50,      47,
+  138, '',      '',
+  '',  'death', '',
+  ''
+]
+[2021-11-06 09:52:50/305] Dont play for the quest, and play this: [
+  '49',
+  [
+    49,  50,      47,
+    138, '',      '',
+    '',  'death', '',
+    ''
+  ]
+]
+[2021-11-06 09:53:00/423] play:  50
+[2021-11-06 09:53:01/425] play:  47
+[2021-11-06 09:53:02/426] play:  138
+[2021-11-06 09:53:03/426] play:  
+[2021-11-06 09:53:03/427] nocard  4
+[2021-11-06 09:53:04/428] play:  
+[2021-11-06 09:53:04/429] nocard  5
+[2021-11-06 09:53:05/430] play:  
+[2021-11-06 09:53:05/431] nocard  6
+[2021-11-06 09:53:16/445] btnRumble visible
+[2021-11-06 09:53:21/477] btnRumble clicked
+[2021-11-06 09:53:21/493] btnSkip visible
+[2021-11-06 09:53:21/512] btnSkip clicked
+[2021-11-06 09:53:41/526] Could not find winner - draw?
+[2021-11-06 09:53:51/550] Clicking element .btn--done
+[2021-11-06 09:54:01/700] Clicking element #menu_item_battle
+[2021-11-06 09:54:01/844] Total Battles: 11[32m - Win Total: 6[39m[33m - Draw? Total: 1[39m[31m - Lost Total: 4[39m
+[2021-11-06 09:54:01/844] [32mTotal Earned: 6.797000000000001 DEC[39m
+[2021-11-06 09:54:01/844] Closing battle 2021/11/6 上午9:54:01
+[2021-11-06 09:54:06/849] seleep time ms: 20620.052059889076
+[2021-11-06 09:54:06/849] hammersir waiting for the next battle in 0.3436675343314846  minutes at  2021/11/6 上午9:54:30
+[2021-11-06 09:54:27/469] Recover Status:  0
+[2021-11-06 09:54:27/469] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:54:27/469] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:54:27/470] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:54:27/470] 2021/11/6 上午9:54:27 Battle Again...
+[2021-11-06 09:54:27/470] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:54:27/483] [1m[97m[45mYour current Energy Capture Rate is 69%[49m[39m[22m
+[2021-11-06 09:54:27/483] getting user quest info from splinterlands API...
+[2021-11-06 09:54:28/601] getting user cards collection from splinterlands API...
+[2021-11-06 09:54:29/588] cards retrieved
+[2021-11-06 09:54:29/589] hammersir  deck size: 128
+[2021-11-06 09:54:29/589] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 09:54:29/614] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:54:34/615] waiting for battle button...
+[2021-11-06 09:54:34/623] Battle button clicked
+[2021-11-06 09:54:39/625] waiting for an opponent...
+[2021-11-06 09:54:39/631] start the match
+[2021-11-06 09:54:51/644] check battles based on mana: 17
+[2021-11-06 09:54:51/644] INPUT:  17 Explosive Weaponry [ 'fire', 'water', 'earth', 'life', 'death', 'dragon' ] 128
+[2021-11-06 09:54:51/645] Using Backup  72285
+[2021-11-06 09:54:51/652] Possible Teams based on your cards:  10
+[2021-11-06 09:54:51/652] quest custom option set as: false
+[2021-11-06 09:54:51/652] BESTSUMMONER:  49
+[2021-11-06 09:54:51/652] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 4,
+  tankWins: 4,
+  bestTank: '50',
+  bestBackline: '141',
+  backlineWins: 2,
+  bestSecondBackline: '52',
+  secondBacklineWins: 2,
+  bestThirdBackline: '51',
+  thirdBacklineWins: 2,
+  bestForthBackline: '',
+  forthBacklineWins: 2
+}
+[2021-11-06 09:54:51/652] BEST TEAM [
+  49, 50,      141,
+  52, 51,      '',
+  '', 'death', '',
+  ''
+]
+[2021-11-06 09:54:51/652] Dont play for the quest, and play this: [
+  '49',
+  [
+    49, 50,      141,
+    52, 51,      '',
+    '', 'death', '',
+    ''
+  ]
+]
+[2021-11-06 09:55:01/787] play:  50
+[2021-11-06 09:55:02/788] play:  141
+[2021-11-06 09:55:03/789] play:  52
+[2021-11-06 09:55:04/790] play:  51
+[2021-11-06 09:55:05/792] play:  
+[2021-11-06 09:55:05/792] nocard  5
+[2021-11-06 09:55:06/793] play:  
+[2021-11-06 09:55:06/794] nocard  6
+[2021-11-06 09:55:17/807] btnRumble visible
+[2021-11-06 09:55:22/841] btnRumble clicked
+[2021-11-06 09:55:22/852] btnSkip visible
+[2021-11-06 09:55:22/881] btnSkip clicked
+[2021-11-06 09:55:28/903] [32mYou won! Reward: +1.029 DEC[39m
+[2021-11-06 09:55:38/914] Clicking element .btn--done
+[2021-11-06 09:55:49/54] Clicking element #menu_item_battle
+[2021-11-06 09:55:49/194] Total Battles: 12[32m - Win Total: 7[39m[33m - Draw? Total: 1[39m[31m - Lost Total: 4[39m
+[2021-11-06 09:55:49/195] [32mTotal Earned: 7.8260000000000005 DEC[39m
+[2021-11-06 09:55:49/195] Closing battle 2021/11/6 上午9:55:49
+[2021-11-06 09:55:54/198] seleep time ms: 23017.543999964255
+[2021-11-06 09:55:54/199] hammersir waiting for the next battle in 0.3836257333327376  minutes at  2021/11/6 上午9:56:18
+[2021-11-06 09:56:17/238] Recover Status:  0
+[2021-11-06 09:56:17/239] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:56:17/239] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:56:17/239] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:56:17/239] 2021/11/6 上午9:56:17 Battle Again...
+[2021-11-06 09:56:17/239] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:56:17/258] [1m[97m[45mYour current Energy Capture Rate is 69%[49m[39m[22m
+[2021-11-06 09:56:17/258] getting user quest info from splinterlands API...
+[2021-11-06 09:56:18/209] getting user cards collection from splinterlands API...
+[2021-11-06 09:56:19/117] cards retrieved
+[2021-11-06 09:56:19/117] hammersir  deck size: 128
+[2021-11-06 09:56:19/117] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 09:56:19/146] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:56:24/147] waiting for battle button...
+[2021-11-06 09:56:24/156] Battle button clicked
+[2021-11-06 09:56:29/156] waiting for an opponent...
+[2021-11-06 09:56:29/164] start the match
+[2021-11-06 09:56:41/178] check battles based on mana: 23
+[2021-11-06 09:56:41/179] INPUT:  23 Armored Up [ 'fire', 'water', 'earth', 'life', 'death' ] 128
+[2021-11-06 09:56:41/179] Using Backup  72285
+[2021-11-06 09:56:41/182] Possible Teams based on your cards:  8
+[2021-11-06 09:56:41/182] quest custom option set as: false
+[2021-11-06 09:56:41/183] BESTSUMMONER:  16
+[2021-11-06 09:56:41/183] BEST SUMMONER and TANK {
+  bestSummoner: '16',
+  summonerWins: 6,
+  tankWins: 4,
+  bestTank: '13',
+  bestBackline: '12',
+  backlineWins: 4,
+  bestSecondBackline: '17',
+  secondBacklineWins: 4,
+  bestThirdBackline: '172',
+  thirdBacklineWins: 4,
+  bestForthBackline: '66',
+  forthBacklineWins: 4
+}
+[2021-11-06 09:56:41/183] BEST TEAM [
+  16,  13,      12,
+  17,  172,     66,
+  194, 'water', '',
+  ''
+]
+[2021-11-06 09:56:41/183] Dont play for the quest, and play this: [
+  '16',
+  [
+    16,  13,      12,
+    17,  172,     66,
+    194, 'water', '',
+    ''
+  ]
+]
+[2021-11-06 09:56:51/310] play:  13
+[2021-11-06 09:56:52/311] play:  12
+[2021-11-06 09:56:53/312] play:  17
+[2021-11-06 09:56:54/313] play:  172
+[2021-11-06 09:56:55/314] play:  66
+[2021-11-06 09:56:56/315] play:  194
+[2021-11-06 09:57:07/322] btnRumble visible
+[2021-11-06 09:57:12/352] btnRumble clicked
+[2021-11-06 09:57:12/356] btnSkip visible
+[2021-11-06 09:57:12/372] btnSkip clicked
+[2021-11-06 09:57:32/374] Could not find winner - draw?
+[2021-11-06 09:57:42/393] Clicking element .btn--done
+[2021-11-06 09:57:52/523] Clicking element #menu_item_battle
+[2021-11-06 09:57:52/698] Total Battles: 13[32m - Win Total: 7[39m[33m - Draw? Total: 2[39m[31m - Lost Total: 4[39m
+[2021-11-06 09:57:52/698] [32mTotal Earned: 7.8260000000000005 DEC[39m
+[2021-11-06 09:57:52/698] Closing battle 2021/11/6 上午9:57:52
+[2021-11-06 09:57:57/701] seleep time ms: 19344.5373787621
+[2021-11-06 09:57:57/702] hammersir waiting for the next battle in 0.3224089563127016  minutes at  2021/11/6 上午9:58:21
+[2021-11-06 09:58:17/66] Recover Status:  0
+[2021-11-06 09:58:17/66] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 09:58:17/66] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 09:58:17/66] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 09:58:17/66] 2021/11/6 上午9:58:17 Battle Again...
+[2021-11-06 09:58:17/66] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 09:58:17/80] [1m[97m[45mYour current Energy Capture Rate is 69%[49m[39m[22m
+[2021-11-06 09:58:17/80] getting user quest info from splinterlands API...
+[2021-11-06 09:58:18/71] getting user cards collection from splinterlands API...
+[2021-11-06 09:58:19/65] cards retrieved
+[2021-11-06 09:58:19/65] hammersir  deck size: 128
+[2021-11-06 09:58:19/65] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 09:58:19/88] no quest reward to be claimed waiting for the battle...
+[2021-11-06 09:58:24/89] waiting for battle button...
+[2021-11-06 09:58:24/94] Battle button clicked
+[2021-11-06 09:58:29/95] waiting for an opponent...
+[2021-11-06 09:58:29/100] start the match
+[2021-11-06 09:58:41/126] check battles based on mana: 27
+[2021-11-06 09:58:41/126] INPUT:  27 Even Stevens [ 'fire', 'earth', 'life', 'dragon' ] 128
+[2021-11-06 09:58:41/126] Using Backup  72285
+[2021-11-06 09:58:41/129] Possible Teams based on your cards:  1
+[2021-11-06 09:58:41/129] quest custom option set as: false
+[2021-11-06 09:58:41/130] BESTSUMMONER:  27
+[2021-11-06 09:58:41/131] BEST SUMMONER and TANK {
+  bestSummoner: '27',
+  summonerWins: 1,
+  tankWins: 1,
+  bestTank: '23',
+  bestBackline: '180',
+  backlineWins: 1,
+  bestSecondBackline: '183',
+  secondBacklineWins: 1,
+  bestThirdBackline: '63',
+  thirdBacklineWins: 1,
+  bestForthBackline: '192',
+  forthBacklineWins: 1
+}
+[2021-11-06 09:58:41/131] BEST TEAM [
+  27,  23,      180,
+  183, 63,      192,
+  196, 'earth', '',
+  ''
+]
+[2021-11-06 09:58:41/131] Dont play for the quest, and play this: [
+  '27',
+  [
+    27,  23,      180,
+    183, 63,      192,
+    196, 'earth', '',
+    ''
+  ]
+]
+[2021-11-06 09:58:51/231] play:  23
+[2021-11-06 09:58:52/232] play:  180
+[2021-11-06 09:58:53/233] play:  183
+[2021-11-06 09:58:54/233] play:  63
+[2021-11-06 09:58:55/235] play:  192
+[2021-11-06 09:58:56/237] play:  196
+[2021-11-06 09:59:13/548] btnRumble visible
+[2021-11-06 09:59:18/569] btnRumble clicked
+[2021-11-06 09:59:18/577] btnSkip visible
+[2021-11-06 09:59:18/597] btnSkip clicked
+[2021-11-06 09:59:24/611] [31mYou lost[39m
+[2021-11-06 09:59:34/619] Clicking element .btn--done
+[2021-11-06 09:59:44/730] Clicking element #menu_item_battle
+[2021-11-06 09:59:44/842] Total Battles: 14[32m - Win Total: 7[39m[33m - Draw? Total: 2[39m[31m - Lost Total: 5[39m
+[2021-11-06 09:59:44/843] [32mTotal Earned: 7.8260000000000005 DEC[39m
+[2021-11-06 09:59:44/843] Closing battle 2021/11/6 上午9:59:44
+[2021-11-06 09:59:49/848] seleep time ms: 12194.601704420937
+[2021-11-06 09:59:49/848] hammersir waiting for the next battle in 0.20324336174034893  minutes at  2021/11/6 上午10:00:13
+[2021-11-06 10:00:02/51] Recover Status:  0
+[2021-11-06 10:00:02/51] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 10:00:02/51] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 10:00:02/51] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 10:00:02/51] 2021/11/6 上午10:00:02 Battle Again...
+[2021-11-06 10:00:02/51] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 10:00:02/66] [1m[97m[45mYour current Energy Capture Rate is 69%[49m[39m[22m
+[2021-11-06 10:00:02/67] getting user quest info from splinterlands API...
+[2021-11-06 10:00:35/123] getting user cards collection from splinterlands API...
+[2021-11-06 10:00:36/145] cards retrieved
+[2021-11-06 10:00:36/145] hammersir  deck size: 128
+[2021-11-06 10:00:36/145] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 10:00:36/165] no quest reward to be claimed waiting for the battle...
+[2021-11-06 10:00:41/167] waiting for battle button...
+[2021-11-06 10:00:41/173] Battle button clicked
+[2021-11-06 10:00:46/176] waiting for an opponent...
+[2021-11-06 10:00:48/13] start the match
+[2021-11-06 10:01:00/30] check battles based on mana: 14
+[2021-11-06 10:01:00/31] INPUT:  14 Spreading Fury [ 'life', 'death', 'dragon' ] 128
+[2021-11-06 10:01:00/31] Using Backup  72285
+[2021-11-06 10:01:00/35] Possible Teams based on your cards:  1
+[2021-11-06 10:01:00/35] quest custom option set as: false
+[2021-11-06 10:01:00/35] BESTSUMMONER:  49
+[2021-11-06 10:01:00/35] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 1,
+  tankWins: 1,
+  bestTank: '50',
+  bestBackline: '52',
+  backlineWins: 1,
+  bestSecondBackline: '51',
+  secondBacklineWins: 1,
+  bestThirdBackline: '',
+  thirdBacklineWins: 1
+}
+[2021-11-06 10:01:00/36] BEST TEAM [ 49, 50, 52, 51, '', '', '', 'death', '', '' ]
+[2021-11-06 10:01:00/36] Dont play for the quest, and play this: [ '49', [ 49, 50, 52, 51, '', '', '', 'death', '', '' ] ]
+[2021-11-06 10:01:10/148] play:  50
+[2021-11-06 10:01:11/149] play:  52
+[2021-11-06 10:01:12/150] play:  51
+[2021-11-06 10:01:13/150] play:  
+[2021-11-06 10:01:13/151] nocard  4
+[2021-11-06 10:01:14/152] play:  
+[2021-11-06 10:01:14/152] nocard  5
+[2021-11-06 10:01:15/153] play:  
+[2021-11-06 10:01:15/153] nocard  6
+[2021-11-06 10:01:33/74] btnRumble visible
+[2021-11-06 10:01:38/92] btnRumble clicked
+[2021-11-06 10:01:38/105] btnSkip visible
+[2021-11-06 10:01:38/132] btnSkip clicked
+[2021-11-06 10:01:44/156] [31mYou lost[39m
+[2021-11-06 10:01:54/169] Clicking element .btn--done
+[2021-11-06 10:02:04/307] Clicking element #menu_item_battle
+[2021-11-06 10:02:04/438] Total Battles: 15[32m - Win Total: 7[39m[33m - Draw? Total: 2[39m[31m - Lost Total: 6[39m
+[2021-11-06 10:02:04/438] [32mTotal Earned: 7.8260000000000005 DEC[39m
+[2021-11-06 10:02:04/438] Closing battle 2021/11/6 上午10:02:04
+[2021-11-06 10:02:09/443] seleep time ms: 16382.633361779084
+[2021-11-06 10:02:09/443] hammersir waiting for the next battle in 0.27304388936298474  minutes at  2021/11/6 上午10:02:33
+[2021-11-06 10:02:25/841] Recover Status:  0
+[2021-11-06 10:02:25/842] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 10:02:25/842] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 10:02:25/842] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 10:02:25/842] 2021/11/6 上午10:02:25 Battle Again...
+[2021-11-06 10:02:25/842] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 10:02:25/853] [1m[97m[45mYour current Energy Capture Rate is 69%[49m[39m[22m
+[2021-11-06 10:02:25/853] getting user quest info from splinterlands API...
+[2021-11-06 10:02:26/925] getting user cards collection from splinterlands API...
+[2021-11-06 10:02:27/898] cards retrieved
+[2021-11-06 10:02:27/899] hammersir  deck size: 128
+[2021-11-06 10:02:27/899] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 10:02:27/912] no quest reward to be claimed waiting for the battle...
+[2021-11-06 10:02:32/913] waiting for battle button...
+[2021-11-06 10:02:32/920] Battle button clicked
+[2021-11-06 10:02:37/922] waiting for an opponent...
+[2021-11-06 10:02:38/706] start the match
+[2021-11-06 10:02:50/715] check battles based on mana: 19
+[2021-11-06 10:02:50/716] INPUT:  19 Up Close & Personal [ 'water', 'earth', 'death', 'dragon' ] 128
+[2021-11-06 10:02:50/716] Using Backup  72285
+[2021-11-06 10:02:50/720] Possible Teams based on your cards:  2
+[2021-11-06 10:02:50/720] quest custom option set as: false
+[2021-11-06 10:02:50/721] BESTSUMMONER:  49
+[2021-11-06 10:02:50/721] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '50',
+  bestBackline: '47',
+  backlineWins: 2,
+  bestSecondBackline: '138',
+  secondBacklineWins: 2,
+  bestThirdBackline: '62',
+  thirdBacklineWins: 2,
+  bestForthBackline: '135',
+  forthBacklineWins: 2
+}
+[2021-11-06 10:02:50/721] BEST TEAM [
+  49,  50,      47,
+  138, 62,      135,
+  '',  'death', '',
+  ''
+]
+[2021-11-06 10:02:50/721] Dont play for the quest, and play this: [
+  '49',
+  [
+    49,  50,      47,
+    138, 62,      135,
+    '',  'death', '',
+    ''
+  ]
+]
+[2021-11-06 10:03:00/810] play:  50
+[2021-11-06 10:03:01/811] play:  47
+[2021-11-06 10:03:02/811] play:  138
+[2021-11-06 10:03:03/812] play:  62
+[2021-11-06 10:03:04/814] play:  135
+[2021-11-06 10:03:05/814] play:  
+[2021-11-06 10:03:05/815] nocard  6
+[2021-11-06 10:03:24/279] btnRumble visible
+[2021-11-06 10:03:29/288] btnRumble clicked
+[2021-11-06 10:03:29/300] btnSkip visible
+[2021-11-06 10:03:29/324] btnSkip clicked
+[2021-11-06 10:03:35/340] [31mYou lost[39m
+[2021-11-06 10:03:45/358] Clicking element .btn--done
+[2021-11-06 10:03:55/478] Clicking element #menu_item_battle
+[2021-11-06 10:03:55/590] Total Battles: 16[32m - Win Total: 7[39m[33m - Draw? Total: 2[39m[31m - Lost Total: 7[39m
+[2021-11-06 10:03:55/590] [32mTotal Earned: 7.8260000000000005 DEC[39m
+[2021-11-06 10:03:55/590] Closing battle 2021/11/6 上午10:03:55
+[2021-11-06 10:04:00/594] seleep time ms: 16751.67594121629
+[2021-11-06 10:04:00/595] hammersir waiting for the next battle in 0.2791945990202715  minutes at  2021/11/6 上午10:04:24
+[2021-11-06 10:04:17/363] Recover Status:  0
+[2021-11-06 10:04:17/363] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 10:04:17/363] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 10:04:17/363] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 10:04:17/363] 2021/11/6 上午10:04:17 Battle Again...
+[2021-11-06 10:04:17/364] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 10:04:17/375] [1m[97m[45mYour current Energy Capture Rate is 69%[49m[39m[22m
+[2021-11-06 10:04:17/375] getting user quest info from splinterlands API...
+[2021-11-06 10:04:18/324] getting user cards collection from splinterlands API...
+[2021-11-06 10:04:19/335] cards retrieved
+[2021-11-06 10:04:19/335] hammersir  deck size: 128
+[2021-11-06 10:04:19/335] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 10:04:19/357] no quest reward to be claimed waiting for the battle...
+[2021-11-06 10:04:24/358] waiting for battle button...
+[2021-11-06 10:04:24/365] Battle button clicked
+[2021-11-06 10:04:29/365] waiting for an opponent...
+[2021-11-06 10:04:29/373] start the match
+[2021-11-06 10:04:41/394] check battles based on mana: 23
+[2021-11-06 10:04:41/394] INPUT:  23 Target Practice [ 'fire', 'water', 'earth', 'life', 'death', 'dragon' ] 128
+[2021-11-06 10:04:41/394] Using Backup  72285
+[2021-11-06 10:04:41/399] Possible Teams based on your cards:  3
+[2021-11-06 10:04:41/399] quest custom option set as: false
+[2021-11-06 10:04:41/399] BESTSUMMONER:  167
+[2021-11-06 10:04:41/400] BEST SUMMONER and TANK {
+  bestSummoner: '167',
+  summonerWins: 3,
+  tankWins: 2,
+  bestTank: '162',
+  bestBackline: '161',
+  backlineWins: 2,
+  bestSecondBackline: '163',
+  secondBacklineWins: 2,
+  bestThirdBackline: '158',
+  thirdBacklineWins: 2,
+  bestForthBackline: '91',
+  forthBacklineWins: 2
+}
+[2021-11-06 10:04:41/400] BEST TEAM [
+  167, 162,    161,
+  163, 158,    91,
+  '',  'fire', '',
+  ''
+]
+[2021-11-06 10:04:41/400] Dont play for the quest, and play this: [
+  '167',
+  [
+    167, 162,    161,
+    163, 158,    91,
+    '',  'fire', '',
+    ''
+  ]
+]
+[2021-11-06 10:04:51/511] play:  162
+[2021-11-06 10:04:52/513] play:  161
+[2021-11-06 10:04:53/514] play:  163
+[2021-11-06 10:04:54/516] play:  158
+[2021-11-06 10:04:55/517] play:  91
+[2021-11-06 10:04:56/519] play:  
+[2021-11-06 10:04:56/519] nocard  6
+[2021-11-06 10:05:09/506] btnRumble visible
+[2021-11-06 10:05:14/518] btnRumble clicked
+[2021-11-06 10:05:14/533] btnSkip visible
+[2021-11-06 10:05:14/558] btnSkip clicked
+[2021-11-06 10:05:20/563] [31mYou lost[39m
+[2021-11-06 10:05:30/567] Clicking element .btn--done
+[2021-11-06 10:05:40/670] Clicking element #menu_item_battle
+[2021-11-06 10:05:40/813] Total Battles: 17[32m - Win Total: 7[39m[33m - Draw? Total: 2[39m[31m - Lost Total: 8[39m
+[2021-11-06 10:05:40/813] [32mTotal Earned: 7.8260000000000005 DEC[39m
+[2021-11-06 10:05:40/813] Closing battle 2021/11/6 上午10:05:40
+[2021-11-06 10:05:45/817] seleep time ms: 21058.090171464246
+[2021-11-06 10:05:45/818] hammersir waiting for the next battle in 0.3509681695244041  minutes at  2021/11/6 上午10:06:09
+[2021-11-06 10:06:06/896] Recover Status:  0
+[2021-11-06 10:06:06/896] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 10:06:06/896] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 10:06:06/896] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 10:06:06/897] 2021/11/6 上午10:06:06 Battle Again...
+[2021-11-06 10:06:06/897] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 10:06:06/915] [1m[97m[45mYour current Energy Capture Rate is 69%[49m[39m[22m
+[2021-11-06 10:06:06/915] getting user quest info from splinterlands API...
+[2021-11-06 10:06:07/837] getting user cards collection from splinterlands API...
+[2021-11-06 10:06:08/858] cards retrieved
+[2021-11-06 10:06:08/858] hammersir  deck size: 128
+[2021-11-06 10:06:08/858] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 10:06:08/869] no quest reward to be claimed waiting for the battle...
+[2021-11-06 10:06:13/871] waiting for battle button...
+[2021-11-06 10:06:13/877] Battle button clicked
+[2021-11-06 10:06:18/878] waiting for an opponent...
+[2021-11-06 10:06:18/884] start the match
+[2021-11-06 10:06:30/894] check battles based on mana: 24
+[2021-11-06 10:06:30/895] INPUT:  24 Rise of the Commons [ 'water', 'life', 'dragon' ] 128
+[2021-11-06 10:06:30/895] Using Backup  72285
+[2021-11-06 10:06:30/898] Possible Teams based on your cards:  4
+[2021-11-06 10:06:30/898] quest custom option set as: false
+[2021-11-06 10:06:30/899] BESTSUMMONER:  38
+[2021-11-06 10:06:30/899] BEST SUMMONER and TANK {
+  bestSummoner: '38',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '190',
+  bestBackline: '151',
+  backlineWins: 2,
+  bestSecondBackline: '35',
+  secondBacklineWins: 2,
+  bestThirdBackline: '39',
+  thirdBacklineWins: 2,
+  bestForthBackline: '',
+  forthBacklineWins: 2
+}
+[2021-11-06 10:06:30/899] BEST TEAM [
+  38, 190,    151,
+  35, 39,     '',
+  '', 'life', '',
+  ''
+]
+[2021-11-06 10:06:30/899] Dont play for the quest, and play this: [
+  '38',
+  [
+    38, 190,    151,
+    35, 39,     '',
+    '', 'life', '',
+    ''
+  ]
+]
+[2021-11-06 10:06:41/9] play:  190
+[2021-11-06 10:06:42/9] play:  151
+[2021-11-06 10:06:43/10] play:  35
+[2021-11-06 10:06:44/12] play:  39
+[2021-11-06 10:06:45/13] play:  
+[2021-11-06 10:06:45/14] nocard  5
+[2021-11-06 10:06:46/15] play:  
+[2021-11-06 10:06:46/15] nocard  6
+[2021-11-06 10:06:57/91] btnRumble visible
+[2021-11-06 10:07:02/111] btnRumble clicked
+[2021-11-06 10:07:02/125] btnSkip visible
+[2021-11-06 10:07:02/152] btnSkip clicked
+[2021-11-06 10:07:08/156] [31mYou lost[39m
+[2021-11-06 10:07:18/170] Clicking element .btn--done
+[2021-11-06 10:07:28/274] Clicking element #menu_item_battle
+[2021-11-06 10:07:28/425] Total Battles: 18[32m - Win Total: 7[39m[33m - Draw? Total: 2[39m[31m - Lost Total: 9[39m
+[2021-11-06 10:07:28/425] [32mTotal Earned: 7.8260000000000005 DEC[39m
+[2021-11-06 10:07:28/425] Closing battle 2021/11/6 上午10:07:28
+[2021-11-06 10:07:33/430] seleep time ms: 14391.188036883474
+[2021-11-06 10:07:33/431] hammersir waiting for the next battle in 0.2398531339480579  minutes at  2021/11/6 上午10:07:57
+[2021-11-06 10:07:47/836] Recover Status:  0
+[2021-11-06 10:07:47/837] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 10:07:47/837] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 10:07:47/837] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 10:07:47/837] 2021/11/6 上午10:07:47 Battle Again...
+[2021-11-06 10:07:47/837] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 10:07:47/855] [1m[97m[45mYour current Energy Capture Rate is 69%[49m[39m[22m
+[2021-11-06 10:07:47/855] getting user quest info from splinterlands API...
+[2021-11-06 10:07:48/825] getting user cards collection from splinterlands API...
+[2021-11-06 10:07:49/989] cards retrieved
+[2021-11-06 10:07:49/990] hammersir  deck size: 128
+[2021-11-06 10:07:49/990] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 10:07:49/999] no quest reward to be claimed waiting for the battle...
+[2021-11-06 10:07:54/999] waiting for battle button...
+[2021-11-06 10:07:55/6] Battle button clicked
+[2021-11-06 10:08:00/9] waiting for an opponent...
+[2021-11-06 10:08:02/526] start the match
+[2021-11-06 10:08:14/543] check battles based on mana: 16
+[2021-11-06 10:08:14/543] INPUT:  16 Healed Out [ 'fire', 'earth', 'death' ] 128
+[2021-11-06 10:08:14/543] Using Backup  72285
+[2021-11-06 10:08:14/547] Possible Teams based on your cards:  5
+[2021-11-06 10:08:14/548] quest custom option set as: false
+[2021-11-06 10:08:14/548] BESTSUMMONER:  27
+[2021-11-06 10:08:14/548] BEST SUMMONER and TANK {
+  bestSummoner: '27',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '184',
+  bestBackline: '183',
+  backlineWins: 2,
+  bestSecondBackline: '28',
+  secondBacklineWins: 2,
+  bestThirdBackline: '',
+  thirdBacklineWins: 2
+}
+[2021-11-06 10:08:14/548] BEST TEAM [
+  27, 184,     183,
+  28, '',      '',
+  '', 'earth', '',
+  ''
+]
+[2021-11-06 10:08:14/548] Dont play for the quest, and play this: [
+  '27',
+  [
+    27, 184,     183,
+    28, '',      '',
+    '', 'earth', '',
+    ''
+  ]
+]
+[2021-11-06 10:08:24/654] play:  184
+[2021-11-06 10:08:25/654] play:  183
+[2021-11-06 10:08:26/656] play:  28
+[2021-11-06 10:08:27/657] play:  
+[2021-11-06 10:08:27/657] nocard  4
+[2021-11-06 10:08:28/658] play:  
+[2021-11-06 10:08:28/659] nocard  5
+[2021-11-06 10:08:29/660] play:  
+[2021-11-06 10:08:29/660] nocard  6
+[2021-11-06 10:08:40/675] btnRumble visible
+[2021-11-06 10:08:45/711] btnRumble clicked
+[2021-11-06 10:08:45/722] btnSkip visible
+[2021-11-06 10:08:45/748] btnSkip clicked
+[2021-11-06 10:08:51/767] [32mYou won! Reward: +0.96 DEC[39m
+[2021-11-06 10:09:01/782] Clicking element .btn--done
+[2021-11-06 10:09:11/930] Clicking element #menu_item_battle
+[2021-11-06 10:09:12/129] Total Battles: 19[32m - Win Total: 8[39m[33m - Draw? Total: 2[39m[31m - Lost Total: 9[39m
+[2021-11-06 10:09:12/129] [32mTotal Earned: 8.786000000000001 DEC[39m
+[2021-11-06 10:09:12/129] Closing battle 2021/11/6 上午10:09:12
+[2021-11-06 10:09:17/130] seleep time ms: 18916.87543145312
+[2021-11-06 10:09:17/131] hammersir waiting for the next battle in 0.31528125719088534  minutes at  2021/11/6 上午10:09:41
+[2021-11-06 10:09:36/54] Recover Status:  0
+[2021-11-06 10:09:36/55] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 10:09:36/55] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 10:09:36/55] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 10:09:36/55] 2021/11/6 上午10:09:36 Battle Again...
+[2021-11-06 10:09:36/56] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 10:09:36/67] [1m[97m[45mYour current Energy Capture Rate is 69%[49m[39m[22m
+[2021-11-06 10:09:36/67] getting user quest info from splinterlands API...
+[2021-11-06 10:09:36/953] getting user cards collection from splinterlands API...
+[2021-11-06 10:09:38/82] cards retrieved
+[2021-11-06 10:09:38/82] hammersir  deck size: 128
+[2021-11-06 10:09:38/83] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 10:09:38/95] no quest reward to be claimed waiting for the battle...
+[2021-11-06 10:09:43/95] waiting for battle button...
+[2021-11-06 10:09:43/101] Battle button clicked
+[2021-11-06 10:09:48/106] waiting for an opponent...
+[2021-11-06 10:09:48/748] start the match
+[2021-11-06 10:10:00/772] check battles based on mana: 24
+[2021-11-06 10:10:00/772] INPUT:  24 Lost Legendaries [ 'fire', 'earth', 'life', 'dragon' ] 128
+[2021-11-06 10:10:00/772] Using Backup  72285
+[2021-11-06 10:10:00/775] Possible Teams based on your cards:  4
+[2021-11-06 10:10:00/775] quest custom option set as: false
+[2021-11-06 10:10:00/775] BESTSUMMONER:  5
+[2021-11-06 10:10:00/775] BEST SUMMONER and TANK {
+  bestSummoner: '5',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '162',
+  bestBackline: '1',
+  backlineWins: 2,
+  bestSecondBackline: '3',
+  secondBacklineWins: 2,
+  bestThirdBackline: '62',
+  thirdBacklineWins: 2,
+  bestForthBackline: '158',
+  forthBacklineWins: 2
+}
+[2021-11-06 10:10:00/775] BEST TEAM [
+  5,  162,    1,
+  3,  62,     158,
+  4,  'fire', '',
+  ''
+]
+[2021-11-06 10:10:00/776] Dont play for the quest, and play this: [
+  '5',
+  [
+    5,  162,    1,
+    3,  62,     158,
+    4,  'fire', '',
+    ''
+  ]
+]
+[2021-11-06 10:10:10/883] play:  162
+[2021-11-06 10:10:11/885] play:  1
+[2021-11-06 10:10:12/885] play:  3
+[2021-11-06 10:10:13/887] play:  62
+[2021-11-06 10:10:14/887] play:  158
+[2021-11-06 10:10:15/889] play:  4
+[2021-11-06 10:10:30/898] btnRumble visible
+[2021-11-06 10:10:35/919] btnRumble clicked
+[2021-11-06 10:10:35/935] btnSkip visible
+[2021-11-06 10:10:35/963] btnSkip clicked
+[2021-11-06 10:10:41/984] [32mYou won! Reward: +0.999 DEC[39m
+[2021-11-06 10:10:51/998] Clicking element .btn--done
+[2021-11-06 10:11:02/146] Clicking element #menu_item_battle
+[2021-11-06 10:11:02/330] Total Battles: 20[32m - Win Total: 9[39m[33m - Draw? Total: 2[39m[31m - Lost Total: 9[39m
+[2021-11-06 10:11:02/330] [32mTotal Earned: 9.785000000000002 DEC[39m
+[2021-11-06 10:11:02/330] Closing battle 2021/11/6 上午10:11:02
+[2021-11-06 10:11:07/335] seleep time ms: 19054.250070509046
+[2021-11-06 10:11:07/336] hammersir waiting for the next battle in 0.3175708345084841  minutes at  2021/11/6 上午10:11:31
+[2021-11-06 10:11:26/406] Recover Status:  0
+[2021-11-06 10:11:26/407] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 10:11:26/407] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 10:11:26/407] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 10:11:26/407] 2021/11/6 上午10:11:26 Battle Again...
+[2021-11-06 10:11:26/407] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 10:11:26/417] [1m[97m[45mYour current Energy Capture Rate is 69%[49m[39m[22m
+[2021-11-06 10:11:26/417] getting user quest info from splinterlands API...
+[2021-11-06 10:11:27/402] getting user cards collection from splinterlands API...
+[2021-11-06 10:11:28/432] cards retrieved
+[2021-11-06 10:11:28/432] hammersir  deck size: 128
+[2021-11-06 10:11:28/432] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 10:11:28/440] no quest reward to be claimed waiting for the battle...
+[2021-11-06 10:11:33/440] waiting for battle button...
+[2021-11-06 10:11:33/448] Battle button clicked
+[2021-11-06 10:11:38/449] waiting for an opponent...
+[2021-11-06 10:11:38/687] start the match
+[2021-11-06 10:11:50/699] check battles based on mana: 21
+[2021-11-06 10:11:50/700] INPUT:  21 Super Sneak [ 'fire', 'life', 'death' ] 128
+[2021-11-06 10:11:50/700] Using Backup  72285
+[2021-11-06 10:11:50/704] Possible Teams based on your cards:  4
+[2021-11-06 10:11:50/704] quest custom option set as: false
+[2021-11-06 10:11:50/704] BESTSUMMONER:  49
+[2021-11-06 10:11:50/704] BEST SUMMONER and TANK {
+  bestSummoner: '49',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '50',
+  bestBackline: '64',
+  backlineWins: 2,
+  bestSecondBackline: '47',
+  secondBacklineWins: 2,
+  bestThirdBackline: '138',
+  thirdBacklineWins: 2,
+  bestForthBackline: '52',
+  forthBacklineWins: 2
+}
+[2021-11-06 10:11:50/704] BEST TEAM [
+  49, 50,      64,
+  47, 138,     52,
+  51, 'death', '',
+  ''
+]
+[2021-11-06 10:11:50/705] Dont play for the quest, and play this: [
+  '49',
+  [
+    49, 50,      64,
+    47, 138,     52,
+    51, 'death', '',
+    ''
+  ]
+]
+[2021-11-06 10:12:00/811] play:  50
+[2021-11-06 10:12:01/813] play:  64
+[2021-11-06 10:12:02/814] play:  47
+[2021-11-06 10:12:03/814] play:  138
+[2021-11-06 10:12:04/815] play:  52
+[2021-11-06 10:12:05/817] play:  51
+[2021-11-06 10:12:16/830] btnRumble visible
+[2021-11-06 10:12:21/868] btnRumble clicked
+[2021-11-06 10:12:21/877] btnSkip visible
+[2021-11-06 10:12:21/906] btnSkip clicked
+[2021-11-06 10:12:27/915] [32mYou won! Reward: +1.036 DEC[39m
+[2021-11-06 10:12:37/938] Clicking element .btn--done
+[2021-11-06 10:12:48/53] Clicking element #menu_item_battle
+[2021-11-06 10:12:48/174] Total Battles: 21[32m - Win Total: 10[39m[33m - Draw? Total: 2[39m[31m - Lost Total: 9[39m
+[2021-11-06 10:12:48/174] [32mTotal Earned: 10.821000000000002 DEC[39m
+[2021-11-06 10:12:48/174] Closing battle 2021/11/6 上午10:12:48
+[2021-11-06 10:12:53/178] seleep time ms: 21121.015232423415
+[2021-11-06 10:12:53/179] hammersir waiting for the next battle in 0.35201692054039024  minutes at  2021/11/6 上午10:13:17
+[2021-11-06 10:13:14/321] Recover Status:  0
+[2021-11-06 10:13:14/321] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 10:13:14/322] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 10:13:14/322] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 10:13:14/322] 2021/11/6 上午10:13:14 Battle Again...
+[2021-11-06 10:13:14/322] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 10:13:14/332] [1m[97m[45mYour current Energy Capture Rate is 69%[49m[39m[22m
+[2021-11-06 10:13:14/332] getting user quest info from splinterlands API...
+[2021-11-06 10:13:15/298] getting user cards collection from splinterlands API...
+[2021-11-06 10:13:16/184] cards retrieved
+[2021-11-06 10:13:16/184] hammersir  deck size: 128
+[2021-11-06 10:13:16/184] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 10:13:16/204] no quest reward to be claimed waiting for the battle...
+[2021-11-06 10:13:21/205] waiting for battle button...
+[2021-11-06 10:13:21/211] Battle button clicked
+[2021-11-06 10:13:26/215] waiting for an opponent...
+[2021-11-06 10:13:27/515] start the match
+[2021-11-06 10:13:39/532] check battles based on mana: 21
+[2021-11-06 10:13:39/532] INPUT:  21 Melee Mayhem [ 'earth', 'life', 'dragon' ] 128
+[2021-11-06 10:13:39/532] Using Backup  72285
+[2021-11-06 10:13:39/536] check battles based on mana: 20
+[2021-11-06 10:13:39/536] INPUT:  20 Melee Mayhem [ 'earth', 'life', 'dragon' ] 128
+[2021-11-06 10:13:39/536] Using Backup  72285
+[2021-11-06 10:13:39/540] check battles based on mana: 19
+[2021-11-06 10:13:39/540] INPUT:  19 Melee Mayhem [ 'earth', 'life', 'dragon' ] 128
+[2021-11-06 10:13:39/540] Using Backup  72285
+[2021-11-06 10:13:39/543] Possible Teams based on your cards:  2
+[2021-11-06 10:13:39/543] quest custom option set as: false
+[2021-11-06 10:13:39/543] BESTSUMMONER:  38
+[2021-11-06 10:13:39/543] BEST SUMMONER and TANK {
+  bestSummoner: '38',
+  summonerWins: 2,
+  tankWins: 2,
+  bestTank: '40',
+  bestBackline: '36',
+  backlineWins: 2,
+  bestSecondBackline: '35',
+  secondBacklineWins: 2,
+  bestThirdBackline: '64',
+  thirdBacklineWins: 2,
+  bestForthBackline: '',
+  forthBacklineWins: 2
+}
+[2021-11-06 10:13:39/544] BEST TEAM [
+  38, 40,     36,
+  35, 64,     '',
+  '', 'life', '',
+  ''
+]
+[2021-11-06 10:13:39/544] Dont play for the quest, and play this: [
+  '38',
+  [
+    38, 40,     36,
+    35, 64,     '',
+    '', 'life', '',
+    ''
+  ]
+]
+[2021-11-06 10:13:49/655] play:  40
+[2021-11-06 10:13:50/655] play:  36
+[2021-11-06 10:13:51/656] play:  35
+[2021-11-06 10:13:52/657] play:  64
+[2021-11-06 10:13:53/659] play:  
+[2021-11-06 10:13:53/659] nocard  5
+[2021-11-06 10:13:54/660] play:  
+[2021-11-06 10:13:54/660] nocard  6
+[2021-11-06 10:14:22/935] btnRumble visible
+[2021-11-06 10:14:27/948] btnRumble clicked
+[2021-11-06 10:14:27/961] btnSkip visible
+[2021-11-06 10:14:27/992] btnSkip clicked
+[2021-11-06 10:14:34/5] [32mYou won! Reward: +1.073 DEC[39m
+[2021-11-06 10:14:44/16] Clicking element .btn--done
+[2021-11-06 10:14:54/141] Clicking element #menu_item_battle
+[2021-11-06 10:14:54/303] Total Battles: 22[32m - Win Total: 11[39m[33m - Draw? Total: 2[39m[31m - Lost Total: 9[39m
+[2021-11-06 10:14:54/303] [32mTotal Earned: 11.894000000000002 DEC[39m
+[2021-11-06 10:14:54/303] Closing battle 2021/11/6 上午10:14:54
+[2021-11-06 10:14:59/308] seleep time ms: 12975.404621007141
+[2021-11-06 10:14:59/308] hammersir waiting for the next battle in 0.21625674368345235  minutes at  2021/11/6 上午10:15:23
+[2021-11-06 10:15:12/294] Recover Status:  0
+[2021-11-06 10:15:12/295] [1m[91m[40mDont pay scammers![49m[39m[22m
+[2021-11-06 10:15:12/295] [1m[97m[40mIf you need support for the bot, join the telegram group https://t.me/splinterlandsbot and discord https://discord.gg/bR6cZDsFSX[49m[39m[22m
+[2021-11-06 10:15:12/295] [1m[92m[40mIf you interested in a higher winning rate with the private API, contact the owner via discord or telegram[49m[39m[22m
+[2021-11-06 10:15:12/295] 2021/11/6 上午10:15:12 Battle Again...
+[2021-11-06 10:15:12/295] current url https://splinterlands.com/?p=battle_history
+[2021-11-06 10:15:12/305] [1m[97m[45mYour current Energy Capture Rate is 69%[49m[39m[22m
+[2021-11-06 10:15:12/305] getting user quest info from splinterlands API...
+[2021-11-06 10:15:13/260] getting user cards collection from splinterlands API...
+[2021-11-06 10:15:14/187] cards retrieved
+[2021-11-06 10:15:14/187] hammersir  deck size: 128
+[2021-11-06 10:15:14/187] claim daily quest setting: true Quest details:  { name: 'Stir the Volcano', splinter: 'fire', total: 5, completed: 5 }
+[2021-11-06 10:15:14/196] no quest reward to be claimed waiting for the battle...
+[2021-11-06 10:15:19/198] waiting for battle button...
+[2021-11-06 10:15:19/205] Battle button clicked
+[2021-11-06 10:15:24/206] waiting for an opponent...
+[2021-11-06 10:16:14/211] [Error while waiting for battle]
+[2021-11-06 10:16:14/211] Refreshing the page and retrying to retrieve a battle
+[2021-11-06 10:17:08/587] [ERROR] waiting for Battle button. is Splinterlands in maintenance?
+[2021-11-06 10:17:58/613] second attempt failed reloading from homepage...
+[2021-11-06 10:18:24/269] [ERROR] waiting for Battle button second time
+[2021-11-06 10:18:29/278] start the match
+[2021-11-06 10:18:41/296] check battles based on mana: 26
+[2021-11-06 10:18:41/297] INPUT:  26 Silenced Summoners [ 'fire', 'water', 'earth', 'life', 'death' ] 128
+[2021-11-06 10:18:41/297] Using Backup  72285
+[2021-11-06 10:18:41/302] Possible Teams based on your cards:  7
+[2021-11-06 10:18:41/302] quest custom option set as: false
+[2021-11-06 10:18:41/302] BESTSUMMONER:  16
+[2021-11-06 10:18:41/302] BEST SUMMONER and TANK {
+  bestSummoner: '16',
+  summonerWins: 3,
+  tankWins: 3,
+  bestTank: '13',
+  bestBackline: '17',
+  backlineWins: 2,
+  bestSecondBackline: '172',
+  secondBacklineWins: 2,
+  bestThirdBackline: '338',
+  thirdBacklineWins: 2,
+  bestForthBackline: '66',
+  forthBacklineWins: 2
+}
+[2021-11-06 10:18:41/302] BEST TEAM [
+  16,  13,      17,
+  172, 338,     66,
+  194, 'water', '',
+  ''
+]
+[2021-11-06 10:18:41/303] Dont play for the quest, and play this: [
+  '16',
+  [
+    16,  13,      17,
+    172, 338,     66,
+    194, 'water', '',
+    ''
+  ]
+]
+[2021-11-06 10:18:51/363] play:  13
+[2021-11-06 10:18:52/366] play:  17
+[2021-11-06 10:18:53/367] play:  172
+[2021-11-06 10:18:54/370] play:  338
+[2021-11-06 10:18:55/370] play:  66
+[2021-11-06 10:18:56/372] play:  194
