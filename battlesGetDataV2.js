@@ -1,6 +1,6 @@
 const fetch = require("node-fetch");
 const fs = require('fs');
-const userList = require('./userList');
+const userList = require('./userListValid');
 const { time } = require("console");
 
 const distinct = (value, index, self) => {
@@ -137,7 +137,7 @@ async function sequenceLoadHistort(){
         )
 
         battlesList = [...battlesList, ...battlesResult]
-        await sleep(100)
+        await sleep(50)
     }
 }
 
@@ -200,13 +200,13 @@ function saveBattleHistory(){
     console.info("validUserList*******************",validUserList)
     validUserJson = JSON.stringify(validUserList)
     //写入新的userList
-    fs.writeFile(`userListValid.js`,`
-    const usersToGrab = ${validUserJson}
-    module.exports = usersToGrab
-    ` , function (err) {
-        if (err) {
-            console.log(err);
-        }
-    })
+    // fs.writeFile(`userListValid.js`,`
+    // const usersToGrab = ${validUserJson}
+    // module.exports = usersToGrab
+    // ` , function (err) {
+    //     if (err) {
+    //         console.log(err);
+    //     }
+    // })
 }
 
