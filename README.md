@@ -5,7 +5,7 @@ This is my personal project of a BOT to play the game [Splinterlands](https://ww
 
 ## How to start the BOT:
 
-REQUIREMENT: You need to install NodeJS from https://nodejs.org/en/download/
+REQUIREMENT: You need to install NodeJS from https://nodejs.org/en/download/ (at least the last stable version 14.18.0)
 
 Once NodeJS is installed and you downloaded the bot in a specific folder, you need to set your configuration in the .env file:
 
@@ -28,6 +28,17 @@ and then
 
 `npm start`
 
+There is also a youtube video made by a user that can help windows users with the setup [here](https://youtu.be/MFxV6XeDKec)
+
+
+If you face issue related to the browser when you run the bot for the first time, be sure you have installed chromium browser. For Linux:
+#### install chromium
+sudo apt-get install chromium-browser
+
+#### run this if running chromium still fails
+sudo apt-get install libpangocairo-1.0-0 libx11-xcb1 libxcomposite1 libxcursor1 libxdamage1 libxi6 libxtst6 libnss3 libcups2 libxss1 libxrandr2 libgconf2-4 libasound2 libatk1.0-0 libgtk-3-0 libgbm-dev
+
+
 
 ### Optional variables:
 
@@ -38,6 +49,7 @@ By default, the BOT checks automatically for daily quest rewards but the claim o
 By default, the BOT will run as headless. Set `HEADLESS` to false to see your browser. The default option is true
 By default, the BOT will run no matter the ECR level. Set `ECR_STOP_LIMIT` to a specific value you want the bot to rest and recover the ECR. The bot will recover until the `ECR_RECOVER_TO` is reached or until 100% ECR.
 If you want the bot to play only one color (when it's possible), use the variable `FAVOURITE_DECK`  and specify the splinter by choosing only one among: fire, life, earth, water, death, dragon. 
+If you want the bot to try to skip specific quest types you can include multiple quest in the variable `SKIP_QUEST` separated by the comma (`SKIP_QUEST=life,snipe,neutral`). whenever it's possible, the bot will click to ask for a new one. Remember you can only ask for a new one once based on the game rules.
 
 Example:
 
@@ -56,6 +68,54 @@ Example:
 - `ECR_RECOVER_TO=99`
 
 - `FAVOURITE_DECK=dragon`
+
+- `SKIP_QUEST=life,snipe,neutral`
+
+### Running bot with multiaccount setting
+
+in order to run multple accounts launching the script only once, you can simply add the list of usernames and posting keys in the .env file and set the variable `MULTI_ACCOUNT` as true:
+
+- `MULTI_ACCOUNT=true`
+- `ACCOUNT=user1,user2,user,...`
+- `PASSWORD=postingkey1,postingkey2,postingkey3,...`
+
+### Running bot as a daemon with PM2
+
+To run your bot as a daemon (background process) you can use NPM package PM2. PM2 is daemon process manager, that works on Linux, MacOS, and Windows. To install PM2 globally, you need to run:
+
+# `npm install pm2 -g`
+
+To start a bot, do all the preparation steps from the above, but instead of `npm start`, run this:
+
+`pm2 start main.js`
+
+You can now run `pm2 list` command to see your bot up and running. It will automatically start on system startup now. You can control the bot with these commands:
+
+`pm2 start <id>`
+
+`pm2 stop <id>`
+
+`pm2 restart <id>`
+
+`pm2 delete <id>`
+
+You can find more information on PM2 usage options at their [official webiste](https://pm2.keymetrics.io/).
+
+
+### Running the bot in a docker container
+
+docker instructions:
+
+1. first, you need to install docker https://docs.docker.com/get-docker/
+2. open your terminal/command line
+3. cd into your bot directory
+4. build the image
+-> `docker build -t your_image_name -f Dockerfile .`
+5. then run a container based on the image
+-> `docker run -it your_image_name bash`
+6. the 5th step will get you inside your container, use nano or vim to edit your .env file and make sure to uncomment CHROME_EXEC
+7. finally, run
+-> `npm start`
 
 
 
