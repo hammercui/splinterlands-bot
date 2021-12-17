@@ -3,3 +3,4 @@ node_modules/
 historyTemp.json
 *.log
 package-lock.json
+log/*.log
